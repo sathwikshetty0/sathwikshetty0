@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  satyhwik shetty here!! 
+  sathwik shetty here!! 
 </h1>
 
 
