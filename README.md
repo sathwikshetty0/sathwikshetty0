@@ -2,47 +2,73 @@
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="200"/>
 </p>
 
-<h1 align="center">
-  sathwik shetty here!! 
-</h1>
+<h1 align="center">Sathwik Shetty here!!</h1>
 
-#### About Me :
+---
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a technology enthusiast from India.
+### 👋 About Me
 
-- 🎓 Computer Science & Engineering undergraduate student.
+- 💻 Final-year Computer Science & Engineering student at Sahyadri College of Engineering and Management, Mangaluru.  
+- ⚙️ Hands-on experience with AI, IoT systems, embedded devices, and full-stack development.  
+- 🚀 Intern at Dexes Edtech – building a scalable LMS platform.  
+- 🛰️ Past Intern at Agnihotri Aerospace – contributed to rocket design and avionics.  
+- 🛵 Creator of AeroWave – an AI-powered smart helmet for deaf riders.  
+- 📈 Achievements include multiple patent filings and national-level project recognition.  
+- 🌱 Continuously learning and innovating at the intersection of tech and problem-solving.  
 
-- :telescope: Intellectually exploring planet Earth.
+---
 
-- :mailbox: How to reach me:
-  <div id="badges">
-  <a href="https://in.linkedin.com/in/nehal-hosalikar-35535a204">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=informational" alt="LinkedIn Badge"/>
+### 📫 Connect with Me
+
+<p align="left">
+  <a href="mailto:sathwikshettyn0@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="mailto:sathwikshettyn2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>
+  <a href="https://www.linkedin.com/in/sathwikshettyn/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/sathwikshetty0">
+    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://twitter.com/NHosalikar">
-    <img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=blue" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-</div>
+</p>
 
 ---
 
-### Languages and Tools :
-<div>
-&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Aurdino" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" title="AdobeXD" alt="AdobeXD" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>&nbsp;
-  
-</div>
+### 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="45" height="45"/>&nbsp;&nbsp;
+</p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="45" height="45"/>&nbsp;&nbsp;
+</p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" title="OpenCV" alt="OpenCV" width="90" height="40"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="45" height="45"/>&nbsp;&nbsp;
+</p>
 
 ---
 
-### My Stats :
-<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=sathwikshetty0&theme=github-dark-blue&hide_border=true" alt="sathwikshetty0"/>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sathwikshetty0&theme=github_dark&show_icons=true&count_private=true&hide_border=true"/>
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=sathwikshetty0&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sathwikshetty0&theme=github_dark&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+</p>
