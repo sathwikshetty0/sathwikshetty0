@@ -30,7 +30,7 @@
   <a href="https://github.com/sathwikshetty0">
     <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/NHosalikar">
+  <a href="https://twitter.com/Sathwikshetty">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </p>
