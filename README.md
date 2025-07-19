@@ -31,7 +31,7 @@
    <a href="https://github.com/sathwikshetty0">
     <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.sathwikshetty.vercel.com/">
+  <a href="https://www.sathwikshetty.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=Portfolio&logoColor=white"/>
   </a>
  
