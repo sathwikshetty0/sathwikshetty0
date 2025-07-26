@@ -17,7 +17,6 @@
 - 🌱 Continuously learning and innovating at the intersection of tech and problem-solving.  
 
 ---
-
 ### 📫 Connect with Me
 
 <p align="center">
