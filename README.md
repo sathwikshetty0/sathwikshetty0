@@ -2,7 +2,7 @@
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="200"/>
 </p>
 
-<h1 align="center">Sathwik Shetty here!!</h1>
+<h1 align="center">AB here!!</h1>
 
 # 💫 About Me:
 💻 Final-year Computer Science & Engineering student at Sahyadri College of Engineering and Management, Mangaluru.<br>⚙️ Hands-on experience with AI, IoT systems, embedded devices, and full-stack development.<br>🚀 Intern at Dexes Edtech – building a scalable LMS platform.<br>🛰️ Past Intern at Agnihotri Aerospace – contributed to rocket design and avionics.<br>🛵 Creator of AeroWave – an AI-powered smart helmet for deaf riders.<br>📈 Achievements include multiple patent filings and national-level project recognition.<br>🌱 Continuously learning and innovating at the intersection of tech and problem-solving.
