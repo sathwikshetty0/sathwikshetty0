@@ -197,16 +197,22 @@ Scalable Learning Management System with real-time collaboration, AI-driven cont
 
 ---
 
-## 🗂️ RECENT TRANSMISSIONS — LATEST REPOS
+## 🗂️ FEATURED REPOS
 
 <div align="center">
 
-> 📌 **Pin your top repos below** — go to your GitHub profile → click **"Customize your pins"** → select repos. Then replace the repo names in these cards:
+[![Git Quest](https://github-readme-stats.vercel.app/api/pin/?username=sathwikshetty0&repo=Git-Quest-&theme=chartreuse-dark&bg_color=0d1117&title_color=00ffff&text_color=c9d1d9&icon_color=00ffff&hide_border=true)](https://github.com/sathwikshetty0/Git-Quest-)
+[![Desirability Assessment Tool](https://github-readme-stats.vercel.app/api/pin/?username=sathwikshetty0&repo=Desirability-Assessment-Tool&theme=chartreuse-dark&bg_color=0d1117&title_color=00ffff&text_color=c9d1d9&icon_color=00ffff&hide_border=true)](https://github.com/sathwikshetty0/Desirability-Assessment-Tool)
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=sathwikshetty0&repo=REPO_NAME_1&theme=chartreuse-dark&bg_color=0d1117&title_color=00ffff&text_color=c9d1d9&icon_color=00ffff&hide_border=true)](https://github.com/sathwikshetty0?tab=repositories)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=sathwikshetty0&repo=REPO_NAME_2&theme=chartreuse-dark&bg_color=0d1117&title_color=00ffff&text_color=c9d1d9&icon_color=00ffff&hide_border=true)](https://github.com/sathwikshetty0?tab=repositories)
-[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=sathwikshetty0&repo=REPO_NAME_3&theme=chartreuse-dark&bg_color=0d1117&title_color=00ffff&text_color=c9d1d9&icon_color=00ffff&hide_border=true)](https://github.com/sathwikshetty0?tab=repositories)
-[![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=sathwikshetty0&repo=REPO_NAME_4&theme=chartreuse-dark&bg_color=0d1117&title_color=00ffff&text_color=c9d1d9&icon_color=00ffff&hide_border=true)](https://github.com/sathwikshetty0?tab=repositories)
+[![Arduino Pick And Place Bot](https://github-readme-stats.vercel.app/api/pin/?username=sathwikshetty0&repo=Arduino-Pick-And-Place-Bot&theme=chartreuse-dark&bg_color=0d1117&title_color=00ffff&text_color=c9d1d9&icon_color=00ffff&hide_border=true)](https://github.com/sathwikshetty0/Arduino-Pick-And-Place-Bot)
+[![ESP NOW Controller](https://github-readme-stats.vercel.app/api/pin/?username=sathwikshetty0&repo=ESP-NOW-Controller&theme=chartreuse-dark&bg_color=0d1117&title_color=00ffff&text_color=c9d1d9&icon_color=00ffff&hide_border=true)](https://github.com/sathwikshetty0/ESP-NOW-Controller)
+
+[![PID Line Follower](https://github-readme-stats.vercel.app/api/pin/?username=sathwikshetty0&repo=PID-line-Follower&theme=chartreuse-dark&bg_color=0d1117&title_color=00ffff&text_color=c9d1d9&icon_color=00ffff&hide_border=true)](https://github.com/sathwikshetty0/PID-line-Follower)
+[![ARDUINO TEST KIT](https://github-readme-stats.vercel.app/api/pin/?username=sathwikshetty0&repo=ARDUINO-TEST-KIT&theme=chartreuse-dark&bg_color=0d1117&title_color=00ffff&text_color=c9d1d9&icon_color=00ffff&hide_border=true)](https://github.com/sathwikshetty0/ARDUINO-TEST-KIT)
+
+[![Disaster Response Management System](https://github-readme-stats.vercel.app/api/pin/?username=sathwikshetty0&repo=Disaster-Response-Management-System-DRMS-&theme=chartreuse-dark&bg_color=0d1117&title_color=00ffff&text_color=c9d1d9&icon_color=00ffff&hide_border=true)](https://github.com/sathwikshetty0/Disaster-Response-Management-System-DRMS-)
+
+[![View All Repos](https://img.shields.io/badge/View_All_Repositories-0d1117?style=for-the-badge&logo=github&logoColor=00ffff)](https://github.com/sathwikshetty0?tab=repositories)
 
 </div>
 
