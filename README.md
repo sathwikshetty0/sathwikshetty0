@@ -1,33 +1,271 @@
-<p align="center">
-  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="200"/>
-</p>
+<div align="center">
 
-<h1 align="center">Sathwik Shetty here!!</h1>
+```
+███████╗ █████╗ ████████╗██╗  ██╗██╗    ██╗██╗██╗  ██╗
+██╔════╝██╔══██╗╚══██╔══╝██║  ██║██║    ██║██║██║ ██╔╝
+███████╗███████║   ██║   ███████║██║ █╗ ██║██║█████╔╝ 
+╚════██║██╔══██║   ██║   ██╔══██║██║███╗██║██║██╔═██╗ 
+███████║██║  ██║   ██║   ██║  ██║╚███╔███╔╝██║██║  ██╗
+╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝╚═╝  ╚═╝
+```
 
-# 💫 About Me:
-💻 Computer Science & Engineering student at Sahyadri College of Engineering and Management, Mangaluru.<br>⚙️ Hands-on experience with AI, IoT systems, embedded devices, and full-stack development.<br>🚀 Product developer at Dexes Edtech – building a scalable LMS platform.<br>🛰️ Product developer at Agnihotri Aerospace – contributed to rocket design and avionics.<br>🛵 Creator of AeroWave – an AI-powered smart helmet for deaf riders.<br>📈 Achievements include multiple patent filings and national-level project recognition.<br>🌱 Continuously learning and innovating at the intersection of tech and problem-solving.
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Engineer+%7C+Builder+%7C+Innovator;AI+%2B+IoT+%2B+Full-Stack+Developer;Robotics+%7C+OpenCV+%7C+RAG+%7C+LangChain;Turning+Ideas+into+Reality+%F0%9F%9A%80;MSME+Funded+%7C+Patent+Holder+%7C+Mentor" alt="Typing SVG" />
 
+<br/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sathwik__shetty__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sathwikshettyn) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sathwikshettyn2@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sathwikshettyn)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sathwik__shetty__)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sathwikshettyn2@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=sathwikshetty0&style=for-the-badge&color=00ffff&label=PROFILE+VIEWS)](https://github.com/sathwikshetty0)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Windicss](https://img.shields.io/badge/windicss-48B0F1.svg?style=for-the-badge&logo=windi-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sathwikshetty0&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sathwikshetty0&theme=one_dark_pro&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sathwikshetty0&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sathwikshetty0&theme=material-palenight&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sathwikshetty0&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sathwikshetty0&icon=5&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👾 SYSTEM IDENTITY
+
+```yaml
+NAME        : Sathwik Shetty
+ROLE        : CS Engineer | Product Developer | Robotics Builder | Mentor
+LOCATION    : Mangaluru, Karnataka 🇮🇳
+INSTITUTION : Sahyadri College of Engineering & Management
+STATUS      : [ ONLINE ] — Building the future, one commit at a time
+INTERESTS   : AI · RAG · LangChain · OpenCV · IoT · Robotics · Teaching
+MISSION     : Merging AI, hardware & software to solve real problems
+```
+
+---
+
+## 🛸 ABOUT ME
+
+> *"The best way to predict the future is to invent it."* — Alan Kay
+
+I'm a CS & Engineering student who lives at the intersection of **AI, robotics, hardware, and full-stack development**. I don't just write code — I build systems that matter.
+
+- 🧠 **AI & RAG Enthusiast** — LangChain, LangFlow, vector DBs, and agentic pipelines
+- 👁️ **OpenCV Obsessive** — Computer vision is my superpower
+- 🤖 **Robotics Builder** — Line followers, soccer bots, sumo bots, humanoids — bring it on
+- 🛵 **Creator of AeroWave** — MSME-funded AI smart helmet for deaf riders (₹16.5L grant!)
+- 🚀 **Aerospace Contributor** — Rocket design & avionics at Agnihotri Aerospace
+- 📡 **IoT Architect** — Arduino, Raspberry Pi, ROS, sensors, actuators — my arena
+- 📚 **LMS Builder** — Scalable ed-tech platform at Dexes Edtech
+- 🎓 **Mentor & Teacher** — Helping projects and people grow is my thing
+- 📜 **Patent Holder** — Multiple filings & national-level project recognition
+
+---
+
+## 🔭 CURRENTLY BUILDING
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛵 AeroWave — *MSME Funded Smart Helmet*
+An AI-powered helmet that detects ambulance sirens and emergency alerts, converting them into haptic + visual signals for deaf riders. Backed by ₹16.5L MSME grant.
+
+`Python` `TensorFlow` `OpenCV` `Raspberry Pi` `IoT`
+
+</td>
+<td width="50%">
+
+### ⚡ Speed Demon Line Follower
+Building the fastest line follower bot possible — because why not push the limits of PID tuning and motor control to the absolute edge.
+
+`C++` `Arduino` `PID Control` `Motor Drivers`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🤖 Robotics Event Bots
+Building a full arena of competition bots — soccer robots, sumo wrestlers, and possibly a humanoid. Every bot from scratch, every system custom.
+
+`ROS` `C++` `OpenCV` `Embedded Systems`
+
+</td>
+<td width="50%">
+
+### 🏫 LMS Platform — *Dexes Edtech*
+Scalable Learning Management System with real-time collaboration, AI-driven content recommendations, and analytics dashboards.
+
+`Next.js` `NestJS` `GraphQL` `PostgreSQL`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 ACHIEVEMENTS UNLOCKED
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  💰  ₹16.5 Lakh MSME Grant — AeroWave Smart Helmet              ║
+║  🥇  National-Level Project Recognition                          ║
+║  📜  Multiple Patent Filings as a College Student                ║
+║  🚀  Contributed to Rocket Design & Avionics Systems             ║
+║  🛵  Built AeroWave — AI Smart Helmet for Deaf Riders            ║
+║  🏫  Product Developer at Dexes Edtech LMS Platform              ║
+║  🎓  Mentor — Helping students & projects grow                   ║
+║  🌐  Full-Stack + AI + Embedded Systems + Robotics Expertise     ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+## ⚙️ TECH ARSENAL
+
+### 🧬 Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+### 🖥️ Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink?style=for-the-badge&logo=SASS&logoColor=white)
+
+### ⚙️ Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+### 🤖 AI / ML / RAG
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### 🛰️ Hardware, IoT & Robotics
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi)
+![ROS](https://img.shields.io/badge/ROS-0A0FF9?style=for-the-badge&logo=ros&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🎨 Design & Creative
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-470137?style=for-the-badge&logo=adobe-xd&logoColor=#FF61F6)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
+
+---
+
+## 📊 MISSION CONTROL — GITHUB STATS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sathwikshetty0&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ffff&text_color=c9d1d9&icon_color=00ffff" width="49%" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=sathwikshetty0&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ffff&fire=ff6b6b&currStreakLabel=00ffff" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathwikshetty0&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=00ffff&text_color=c9d1d9" width="45%" />
+
+</div>
+
+### 🏅 Trophy Cabinet
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=sathwikshetty0&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7)
+
+</div>
+
+---
+
+## 🗂️ RECENT TRANSMISSIONS — LATEST REPOS
+
+<div align="center">
+
+> 📌 **Pin your top repos below** — go to your GitHub profile → click **"Customize your pins"** → select repos. Then replace the repo names in these cards:
+
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=sathwikshetty0&repo=REPO_NAME_1&theme=chartreuse-dark&bg_color=0d1117&title_color=00ffff&text_color=c9d1d9&icon_color=00ffff&hide_border=true)](https://github.com/sathwikshetty0?tab=repositories)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=sathwikshetty0&repo=REPO_NAME_2&theme=chartreuse-dark&bg_color=0d1117&title_color=00ffff&text_color=c9d1d9&icon_color=00ffff&hide_border=true)](https://github.com/sathwikshetty0?tab=repositories)
+[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=sathwikshetty0&repo=REPO_NAME_3&theme=chartreuse-dark&bg_color=0d1117&title_color=00ffff&text_color=c9d1d9&icon_color=00ffff&hide_border=true)](https://github.com/sathwikshetty0?tab=repositories)
+[![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=sathwikshetty0&repo=REPO_NAME_4&theme=chartreuse-dark&bg_color=0d1117&title_color=00ffff&text_color=c9d1d9&icon_color=00ffff&hide_border=true)](https://github.com/sathwikshetty0?tab=repositories)
+
+</div>
+
+---
+
+## 📡 SIGNAL STRENGTH — ACTIVITY
+
+<div align="center">
+
+[![Sathwik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sathwikshetty0&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true)](https://github.com/sathwikshetty0)
+
+</div>
+
+---
+
+## ⚡ FUN FACTS — SYSTEM LOGS
+
+```bash
+$ cat fun_facts.log
+
+[LOG 001] → Got ₹16.5L MSME funding as a college student 💰
+[LOG 002] → I've worked on a rocket before a full-time job 🚀
+[LOG 003] → My helmet listens to ambulances so deaf riders don't have to 🛵
+[LOG 004] → I build competition robots just because it's fun 🤖
+[LOG 005] → I design UI/UX AND write embedded C — rare combo 🎨⚙️
+[LOG 006] → I've filed patents before finishing my degree 📜
+[LOG 007] → OpenCV is basically my second language 👁️
+[LOG 008] → Teaching others is how I learn best 🎓
+[LOG 009] → My IDE and oscilloscope are equally important tools 🔭
+```
+
+---
+
+## 💬 TRANSMISSION LOG — QUOTES
+
+> *"Any sufficiently advanced technology is indistinguishable from magic."*
+> — Arthur C. Clarke
+
+> *"The people who are crazy enough to think they can change the world are the ones who do."*
+> — Steve Jobs
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║          THANKS FOR VISITING MY CORNER OF THE UNIVERSE 🌌        ║
+║                Let's build something extraordinary.              ║
+║                                                                  ║
+║   ⭐ Star my repos if you find them useful — it means a lot!    ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sathwikshettyn)
+[![Email](https://img.shields.io/badge/Send_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sathwikshettyn2@gmail.com)
+
+*— Sathwik Shetty | Crafted with ☕ & 🚀*
+
+</div>
