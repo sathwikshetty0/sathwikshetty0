@@ -42,15 +42,15 @@ MISSION     : Merging AI, hardware & software to solve real problems
 
 I'm a CS & Engineering student who lives at the intersection of **AI, robotics, hardware, and full-stack development**. I don't just write code — I build systems that matter.
 
-- **AI & RAG Enthusiast**  LangChain, LangFlow, vector DBs, and agentic pipelines
-- **OpenCV Obsessive**  Computer vision is my superpower
-- **Robotics Builder**  Line followers, soccer bots, sumo bots, humanoids — bring it on
-- **Creator of AeroWave**  MSME-funded AI smart helmet for deaf riders (₹16.5L grant!)
-- **Aerospace Contributor**  Rocket design & avionics at Agnihotri Aerospace
-- **IoT Architect**  Arduino, Raspberry Pi, ROS, sensors, actuators — my arena
-- **LMS Builder**  Scalable ed-tech platform at Dexes Edtech
-- **Mentor & Teacher**  Helping projects and people grow is my thing
-- **Patent Holder**  Multiple filings & national-level project recognition
+- **AI & RAG Enthusiast** - LangChain, LangFlow, vector DBs, and agentic pipelines
+- **OpenCV Obsessive** - Computer vision is my superpower
+- **Robotics Builder** - Line followers, soccer bots, sumo bots, humanoids — bring it on
+- **Creator of AeroWave** - MSME-funded AI smart helmet for deaf riders (₹16.5L grant!)
+- **Aerospace Contributor** - Rocket design & avionics at Agnihotri Aerospace
+- **IoT Architect** - Arduino, Raspberry Pi, ROS, sensors, actuators — my arena
+- **LMS Builder** - Scalable ed-tech platform at Dexes Edtech
+- **Mentor & Teacher** - Helping projects and people grow is my thing
+- **Patent Holder** - Multiple filings & national-level project recognition
 
 ---
 
