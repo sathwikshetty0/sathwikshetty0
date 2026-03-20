@@ -101,7 +101,7 @@ Scalable Learning Management System with real-time collaboration, AI-driven cont
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║  💰  ₹16.5 Lakh MSME Grant — AeroWave Smart Helmet              ║
+║  💰  ₹16.5 Lakh MSME Grant — AeroWave Smart Helmet               ║
 ║  🥇  National-Level Project Recognition                          ║
 ║  📜  Multiple Patent Filings as a College Student                ║
 ║  🚀  Contributed to Rocket Design & Avionics Systems             ║
