@@ -180,39 +180,41 @@ Scalable Learning Management System with real-time collaboration, AI-driven cont
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sathwikshetty0&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ffff&text_color=c9d1d9&icon_color=00ffff" width="49%" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=sathwikshetty0&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ffff&fire=ff6b6b&currStreakLabel=00ffff" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathwikshetty0&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=00ffff&text_color=c9d1d9" width="45%" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sathwikshetty0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=c9d1d9&icon_color=00ffff&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathwikshetty0&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=c9d1d9&border_radius=10"/>
 
 </div>
 
-### 🏅 Trophy Cabinet
-
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=sathwikshetty0&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7)
+<img width="70%" src="https://streak-stats.demolab.com?user=sathwikshetty0&theme=tokyonight&hide_border=true&background=0d1117&ring=00ffff&fire=ff6b6b&currStreakLabel=00ffff&sideLabels=00ffff&dates=c9d1d9&border_radius=10" />
 
 </div>
 
 ---
 
-## 🗂️ FEATURED REPOS
+## 🏅 TROPHY CABINET
 
 <div align="center">
 
-[![Git Quest](https://github-readme-stats.vercel.app/api/pin/?username=sathwikshetty0&repo=Git-Quest-&theme=chartreuse-dark&bg_color=0d1117&title_color=00ffff&text_color=c9d1d9&icon_color=00ffff&hide_border=true)](https://github.com/sathwikshetty0/Git-Quest-)
-[![Desirability Assessment Tool](https://github-readme-stats.vercel.app/api/pin/?username=sathwikshetty0&repo=Desirability-Assessment-Tool&theme=chartreuse-dark&bg_color=0d1117&title_color=00ffff&text_color=c9d1d9&icon_color=00ffff&hide_border=true)](https://github.com/sathwikshetty0/Desirability-Assessment-Tool)
+<img src="https://github-profile-trophy.vercel.app/?username=sathwikshetty0&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 
-[![Arduino Pick And Place Bot](https://github-readme-stats.vercel.app/api/pin/?username=sathwikshetty0&repo=Arduino-Pick-And-Place-Bot&theme=chartreuse-dark&bg_color=0d1117&title_color=00ffff&text_color=c9d1d9&icon_color=00ffff&hide_border=true)](https://github.com/sathwikshetty0/Arduino-Pick-And-Place-Bot)
-[![ESP NOW Controller](https://github-readme-stats.vercel.app/api/pin/?username=sathwikshetty0&repo=ESP-NOW-Controller&theme=chartreuse-dark&bg_color=0d1117&title_color=00ffff&text_color=c9d1d9&icon_color=00ffff&hide_border=true)](https://github.com/sathwikshetty0/ESP-NOW-Controller)
+</div>
 
-[![PID Line Follower](https://github-readme-stats.vercel.app/api/pin/?username=sathwikshetty0&repo=PID-line-Follower&theme=chartreuse-dark&bg_color=0d1117&title_color=00ffff&text_color=c9d1d9&icon_color=00ffff&hide_border=true)](https://github.com/sathwikshetty0/PID-line-Follower)
-[![ARDUINO TEST KIT](https://github-readme-stats.vercel.app/api/pin/?username=sathwikshetty0&repo=ARDUINO-TEST-KIT&theme=chartreuse-dark&bg_color=0d1117&title_color=00ffff&text_color=c9d1d9&icon_color=00ffff&hide_border=true)](https://github.com/sathwikshetty0/ARDUINO-TEST-KIT)
+---
 
-[![Disaster Response Management System](https://github-readme-stats.vercel.app/api/pin/?username=sathwikshetty0&repo=Disaster-Response-Management-System-DRMS-&theme=chartreuse-dark&bg_color=0d1117&title_color=00ffff&text_color=c9d1d9&icon_color=00ffff&hide_border=true)](https://github.com/sathwikshetty0/Disaster-Response-Management-System-DRMS-)
+## 🎯 SKILL POWER LEVELS
 
-[![View All Repos](https://img.shields.io/badge/View_All_Repositories-0d1117?style=for-the-badge&logo=github&logoColor=00ffff)](https://github.com/sathwikshetty0?tab=repositories)
+<div align="center">
+
+| Domain | Skill | Level |
+|--------|-------|-------|
+| 🤖 AI / ML | LangChain · RAG · OpenCV · TensorFlow | `████████████░` **Expert** |
+| ⚙️ Embedded | Arduino · Raspberry Pi · ROS · IoT | `████████████░` **Expert** |
+| 🌐 Full-Stack | React · Next.js · NestJS · GraphQL | `███████████░░` **Advanced** |
+| 🚀 Robotics | Line Followers · Sumo · Soccer Bots | `███████████░░` **Advanced** |
+| ☁️ Cloud/DevOps | AWS · GCP · Docker · Firebase | `█████████░░░░` **Proficient** |
+| 🎨 Design | Figma · Adobe XD · Photoshop | `████████░░░░░` **Proficient** |
 
 </div>
 
@@ -222,7 +224,26 @@ Scalable Learning Management System with real-time collaboration, AI-driven cont
 
 <div align="center">
 
-[![Sathwik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sathwikshetty0&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true)](https://github.com/sathwikshetty0)
+[![Sathwik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sathwikshetty0&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area=true&area_color=00ffff&hide_border=true&radius=8)](https://github.com/sathwikshetty0)
+
+</div>
+
+---
+
+## 🗂️ FEATURED REPOS
+
+<div align="center">
+
+[![Git Quest](https://github-readme-stats.vercel.app/api/pin/?username=sathwikshetty0&repo=Git-Quest-&theme=tokyonight&bg_color=0d1117&title_color=00ffff&text_color=c9d1d9&icon_color=00ffff&hide_border=true&border_radius=10)](https://github.com/sathwikshetty0/Git-Quest-)
+[![Desirability Assessment Tool](https://github-readme-stats.vercel.app/api/pin/?username=sathwikshetty0&repo=Desirability-Assessment-Tool&theme=tokyonight&bg_color=0d1117&title_color=00ffff&text_color=c9d1d9&icon_color=00ffff&hide_border=true&border_radius=10)](https://github.com/sathwikshetty0/Desirability-Assessment-Tool)
+
+[![Arduino Pick And Place Bot](https://github-readme-stats.vercel.app/api/pin/?username=sathwikshetty0&repo=Arduino-Pick-And-Place-Bot&theme=tokyonight&bg_color=0d1117&title_color=00ffff&text_color=c9d1d9&icon_color=00ffff&hide_border=true&border_radius=10)](https://github.com/sathwikshetty0/Arduino-Pick-And-Place-Bot)
+[![ESP NOW Controller](https://github-readme-stats.vercel.app/api/pin/?username=sathwikshetty0&repo=ESP-NOW-Controller&theme=tokyonight&bg_color=0d1117&title_color=00ffff&text_color=c9d1d9&icon_color=00ffff&hide_border=true&border_radius=10)](https://github.com/sathwikshetty0/ESP-NOW-Controller)
+
+[![PID Line Follower](https://github-readme-stats.vercel.app/api/pin/?username=sathwikshetty0&repo=PID-line-Follower&theme=tokyonight&bg_color=0d1117&title_color=00ffff&text_color=c9d1d9&icon_color=00ffff&hide_border=true&border_radius=10)](https://github.com/sathwikshetty0/PID-line-Follower)
+[![Disaster Response Management](https://github-readme-stats.vercel.app/api/pin/?username=sathwikshetty0&repo=Disaster-Response-Management-System-DRMS-&theme=tokyonight&bg_color=0d1117&title_color=00ffff&text_color=c9d1d9&icon_color=00ffff&hide_border=true&border_radius=10)](https://github.com/sathwikshetty0/Disaster-Response-Management-System-DRMS-)
+
+[![View All Repos](https://img.shields.io/badge/⚡_View_All_Repositories-0d1117?style=for-the-badge&logo=github&logoColor=00ffff&labelColor=0d1117)](https://github.com/sathwikshetty0?tab=repositories)
 
 </div>
 
