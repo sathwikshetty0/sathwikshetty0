@@ -1,117 +1,191 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ffff,100:0d1117&height=200&section=header&text=SATHWIK%20SHETTY&fontSize=60&fontColor=00ffff&fontAlignY=38&desc=Engineer%20%7C%20Builder%20%7C%20Innovator&descAlignY=58&descSize=18&descColor=ffffff&animation=fadeIn" />
+<!-- ═══════════════════════ HERO BANNER ═══════════════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&width=750&lines=🤖+AI+%2B+IoT+%2B+Full-Stack+Developer;🚀+MSME+Funded+%7C+Patent+Holder;🛵+Creator+of+AeroWave+Smart+Helmet;⚡+Robotics+%7C+OpenCV+%7C+RAG+%7C+LangChain;🎓+Engineer+%7C+Mentor+%7C+Aerospace+Contributor" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,30:001a1a,60:003333,100:00ffff&height=300&section=header&text=SATHWIK%20SHETTY&fontSize=72&fontColor=00ffff&fontAlignY=40&desc=⚡%20Engineer%20·%20Builder%20·%20Innovator%20·%20Disruptor%20⚡&descAlignY=60&descSize=20&descColor=a0f0f0&animation=twinkling&stroke=00ffff&strokeWidth=2" />
+
+<!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2000&pause=600&color=00FFFF&center=true&vCenter=true&width=800&lines=🤖+AI+Engineer+%7C+RAG+%7C+LangChain+%7C+OpenCV;🛵+Creator+of+AeroWave+—+₹16.5L+MSME+Funded;🚀+Rocket+Avionics+%7C+Patent+Holder+%7C+Mentor;⚡+Robotics+%7C+Embedded+Systems+%7C+Full-Stack;🧠+Building+tech+that+actually+matters" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sathwikshettyn)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sathwik__shetty__)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sathwikshettyn2@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=sathwikshetty0&style=for-the-badge&color=00ffff&label=PROFILE+VIEWS)](https://github.com/sathwikshetty0)
+<!-- ═══════════════════════ SOCIAL BADGES ═══════════════════════ -->
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sathwikshettyn)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sathwik__shetty__)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sathwikshettyn2@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sathwikshetty0)
+[![Profile Views](https://komarev.com/ghpvc/?username=sathwikshetty0&style=for-the-badge&color=00ffff&label=VISITORS)](https://github.com/sathwikshetty0)
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════ IDENTITY CARD ═══════════════════════ -->
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│   ██████  ██████  ██████  ██████  ██████  ██████  ██████  ██████   │
+│                     SYSTEM IDENTITY // v2.6.0                      │
+│   ██████  ██████  ██████  ██████  ██████  ██████  ██████  ██████   │
+│                                                                     │
+│   NAME         ──▶  Sathwik Shetty                                 │
+│   ROLE         ──▶  CS Engineer · Product Dev · Mentor             │
+│   LOCATION     ──▶  Mangaluru, Karnataka 🇮🇳                        │
+│   INSTITUTION  ──▶  Sahyadri College of Engineering & Mgmt         │
+│   STATUS       ──▶  ████████████████████ ONLINE — Building ∞       │
+│   CORE STACK   ──▶  AI · RAG · OpenCV · IoT · ROS · Full-Stack     │
+│   MISSION      ──▶  Merge AI × Hardware × Software for real impact │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+<!-- ═══════════════════════ SNAKE CONTRIBUTION GRAPH ═══════════════════════ -->
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sathwikshetty0/sathwikshetty0/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sathwikshetty0/sathwikshetty0/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sathwikshetty0/sathwikshetty0/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
 ---
 
-## 👾 SYSTEM IDENTITY
+<!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
 
-```yaml
-╔══════════════════════════════════════════════════════════════╗
-║  NAME        : Sathwik Shetty                                ║
-║  ROLE        : CS Engineer | Product Developer | Mentor      ║
-║  LOCATION    : Mangaluru, Karnataka 🇮🇳                       ║
-║  INSTITUTION : Sahyadri College of Engineering & Management  ║
-║  STATUS      : ██████████ ONLINE — Building the future       ║
-║  STACK       : AI · RAG · LangChain · OpenCV · IoT · ROS     ║
-║  MISSION     : Merging AI, hardware & software for impact    ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
----
-
-## 🛸 ABOUT ME
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> ABOUT ME
 
 > *"The best way to predict the future is to invent it."* — Alan Kay
 
-I'm a CS & Engineering student living at the intersection of **AI, robotics, hardware, and full-stack development**. I don't just write code — I build systems that matter.
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 
-- **AI & RAG Enthusiast** — LangChain, LangFlow, vector DBs, and agentic pipelines
-- **OpenCV Obsessive** — Computer vision is my superpower
-- **Robotics Builder** — Line followers, soccer bots, sumo bots, humanoids — bring it on
-- **Creator of AeroWave** — MSME-funded AI smart helmet for deaf riders (₹16.5L grant!)
-- **Aerospace Contributor** — Rocket design & avionics at Agnihotri Aerospace
-- **IoT Architect** — Arduino, Raspberry Pi, ROS, sensors, actuators — my arena
-- **LMS Builder** — Scalable ed-tech platform at Dexes Edtech
-- **Mentor & Teacher** — Helping projects and people grow is my thing
-- **Patent Holder** — Multiple filings & national-level project recognition
+I'm a Engineer living at the intersection of **AI, robotics, hardware, and full-stack development**. I don't just write code — I build systems that **matter**.
+
+- 🧠 **AI & RAG Enthusiast** — LangChain, LangFlow, vector DBs, agentic pipelines
+- 👁️ **OpenCV Obsessive** — Computer vision is my superpower
+- 🤖 **Robotics Builder** — Line followers, soccer bots, sumo bots, humanoids
+- 🛵 **Creator of AeroWave** — MSME-funded AI smart helmet for deaf riders (₹16.5L grant!)
+- 🚀 **Aerospace Contributor** — Rocket design & avionics at Agnihotri Aerospace
+- 📡 **IoT Architect** — Arduino, Raspberry Pi, ROS, sensors, actuators
+- 🏫 **LMS Builder** — Scalable ed-tech platform at Dexes Edtech
+- 🎓 **Mentor & Teacher** — Helping projects and people grow
+- 📜 **Patent Holder** — Multiple filings & national-level recognition
+
+<br clear="right"/>
 
 ---
 
+<!-- ═══════════════════════ CURRENTLY BUILDING ═══════════════════════ -->
+
 ## 🔭 CURRENTLY BUILDING
+
+<div align="center">
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🛵 AeroWave — *MSME Funded Smart Helmet*
-AI-powered helmet detecting ambulance sirens → haptic + visual signals for deaf riders. **₹16.5L MSME grant backed.**
+<h3>🛵 AeroWave — <em>MSME Funded Smart Helmet</em></h3>
 
-`Python` `TensorFlow` `OpenCV` `Raspberry Pi` `IoT`
+<img src="https://img.shields.io/badge/STATUS-LIVE%20BUILD-00ffff?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/GRANT-₹16.5L%20MSME-ff6e96?style=flat-square&labelColor=0d1117" />
+
+> AI-powered helmet that detects ambulance sirens and converts them into **haptic + visual signals** for deaf and hard-of-hearing riders.
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![RaspberryPi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ⚡ Speed Demon Line Follower
-Pushing PID tuning and motor control to the absolute edge — because limits exist to be broken.
+<h3>⚡ Speed Demon Line Follower</h3>
 
-`C++` `Arduino` `PID Control` `Motor Drivers`
+<img src="https://img.shields.io/badge/STATUS-TUNING-ffaa00?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/CATEGORY-COMPETITION-ff6e96?style=flat-square&labelColor=0d1117" />
+
+> Pushing PID tuning and motor control to the absolute edge — because limits exist to be broken.
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![PID](https://img.shields.io/badge/PID%20Control-⚙️-grey?style=flat-square&labelColor=0d1117)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 Robotics Event Bots
-Full arena of competition bots — soccer robots, sumo wrestlers, and possibly a humanoid. Every bot from scratch.
+<h3>🤖 Robotics Arena Bots</h3>
 
-`ROS` `C++` `OpenCV` `Embedded Systems`
+<img src="https://img.shields.io/badge/STATUS-ASSEMBLING-00ffff?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/BOTS-SOCCER%20·%20SUMO%20·%20HUMANOID-ff6e96?style=flat-square&labelColor=0d1117" />
+
+> Full arena of competition bots — every single one built from scratch. Because off-the-shelf is boring.
+
+![ROS](https://img.shields.io/badge/ROS-0A0FF9?style=flat-square&logo=ros&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏫 LMS Platform — *Dexes Edtech*
-Scalable Learning Management System with real-time collaboration, AI-driven recommendations, and analytics.
+<h3>🏫 LMS Platform — <em>Dexes Edtech</em></h3>
 
-`Next.js` `NestJS` `GraphQL` `PostgreSQL`
+<img src="https://img.shields.io/badge/STATUS-SCALING-00ff88?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/ROLE-Product%20Developer-ff6e96?style=flat-square&labelColor=0d1117" />
+
+> Scalable Learning Management System with real-time collaboration, AI-driven recommendations, and analytics.
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
+
+<!-- ═══════════════════════ ACHIEVEMENTS ═══════════════════════ -->
 
 ## 🏆 ACHIEVEMENTS UNLOCKED
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  💰  ₹16.5 Lakh MSME Grant — AeroWave Smart Helmet              ║
-║  🥇  National-Level Project Recognition                         ║
-║  📜  Multiple Patent Filings as a College Student               ║
-║  🚀  Contributed to Rocket Design & Avionics Systems            ║
-║  🛵  Built AeroWave — AI Smart Helmet for Deaf Riders           ║
-║  🏫  Product Developer at Dexes Edtech LMS Platform             ║
-║  🎓  Mentor — Helping students & projects grow                  ║
-║  🌐  Full-Stack + AI + Embedded Systems + Robotics              ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+<div align="center">
+
+| 🏅 Achievement | 📋 Detail |
+|:---|:---|
+| 💰 **₹16.5 Lakh MSME Grant** | AeroWave Smart Helmet — Government-backed funding as a college student |
+| 🥇 **National-Level Recognition** | Project awarded at national-level competitions |
+| 📜 **Multiple Patent Filings** | Intellectual property secured before finishing degree |
+| 🚀 **Rocket & Avionics Work** | Contributed to rocket design at Agnihotri Aerospace |
+| 🛵 **AeroWave — Built & Funded** | AI smart helmet for deaf riders — live, funded, real |
+| 🏫 **Product Dev @ Dexes Edtech** | Scalable LMS platform reaching real students |
+| 🎓 **Mentor** | Guiding juniors, teams & projects to grow |
+| 🌐 **Rare Full-Stack + AI + Hardware** | One of the very few who bridges all three worlds |
+
+</div>
 
 ---
 
+<!-- ═══════════════════════ TECH ARSENAL ═══════════════════════ -->
+
 ## ⚙️ TECH ARSENAL
 
-### 🧬 Languages
+<details open>
+<summary><b>🧬 Languages</b></summary>
+<br/>
+
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -120,7 +194,12 @@ Scalable Learning Management System with real-time collaboration, AI-driven reco
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-### 🖥️ Frontend
+</details>
+
+<details>
+<summary><b>🖥️ Frontend & UI</b></summary>
+<br/>
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -129,14 +208,24 @@ Scalable Learning Management System with real-time collaboration, AI-driven reco
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
 
-### ⚙️ Backend & APIs
+</details>
+
+<details>
+<summary><b>⚙️ Backend & APIs</b></summary>
+<br/>
+
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
 
-### 🤖 AI / ML / RAG
+</details>
+
+<details>
+<summary><b>🤖 AI · ML · RAG · Vision</b></summary>
+<br/>
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
@@ -149,12 +238,22 @@ Scalable Learning Management System with real-time collaboration, AI-driven reco
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![mlflow](https://img.shields.io/badge/mlflow-d9ead3?style=for-the-badge&logo=numpy&logoColor=blue)
 
-### 🛰️ Hardware, IoT & Robotics
+</details>
+
+<details>
+<summary><b>🛰️ Hardware · IoT · Robotics</b></summary>
+<br/>
+
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi)
 ![ROS](https://img.shields.io/badge/ROS-0A0FF9?style=for-the-badge&logo=ros&logoColor=white)
 
-### ☁️ Cloud & DevOps
+</details>
+
+<details>
+<summary><b>☁️ Cloud · DevOps · CI/CD</b></summary>
+<br/>
+
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
@@ -164,13 +263,24 @@ Scalable Learning Management System with real-time collaboration, AI-driven reco
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-181717?style=for-the-badge&logo=gitlab&logoColor=white)
 
-### 🗄️ Databases
+</details>
+
+<details>
+<summary><b>🗄️ Databases</b></summary>
+<br/>
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🎨 Design & Creative
+</details>
+
+<details>
+<summary><b>🎨 Design · Creative · 3D</b></summary>
+<br/>
+
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-470137?style=for-the-badge&logo=adobe-xd&logoColor=#FF61F6)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
@@ -179,29 +289,33 @@ Scalable Learning Management System with real-time collaboration, AI-driven reco
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 ![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
-
-### 🎮 Other
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-white?style=for-the-badge&logo=OpenGL)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
+
+</details>
 
 ---
+
+<!-- ═══════════════════════ GITHUB STATS ═══════════════════════ -->
 
 ## 📊 GITHUB STATS
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sathwikshetty0&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ff6e96&text_color=c9d1d9&icon_color=00ffff" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathwikshetty0&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6e96&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sathwikshetty0&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ff6e96&text_color=c9d1d9&icon_color=00ffff&border_radius=12" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathwikshetty0&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6e96&text_color=c9d1d9&border_radius=12" />
 
-<img width="70%" src="https://streak-stats.demolab.com?user=sathwikshetty0&theme=radical&hide_border=true&background=0d1117&ring=ff6e96&fire=ff6e96&currStreakLabel=00ffff&sideLabels=ff6e96&dates=c9d1d9&stroke=0d1117" />
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=sathwikshetty0&theme=radical&hide_border=true&background=0d1117&ring=ff6e96&fire=ff6e96&currStreakLabel=00ffff&sideLabels=ff6e96&dates=c9d1d9&stroke=0d1117&border_radius=12" />
 
 </div>
 
 ---
 
-## 🏆 GITHUB TROPHIES
+<!-- ═══════════════════════ TROPHIES ═══════════════════════ -->
+
+## 🏆 TROPHY CASE
 
 <div align="center">
 
@@ -211,17 +325,9 @@ Scalable Learning Management System with real-time collaboration, AI-driven reco
 
 ---
 
-## 🔝 TOP CONTRIBUTED REPOS
+<!-- ═══════════════════════ ACTIVITY GRAPH ═══════════════════════ -->
 
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=sathwikshetty0&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117&order_by=contributions" />
-
-</div>
-
----
-
-## 📡 ACTIVITY GRAPH
+## 📡 COMMIT ACTIVITY
 
 <div align="center">
 
@@ -231,44 +337,55 @@ Scalable Learning Management System with real-time collaboration, AI-driven reco
 
 ---
 
-## 🗂️ FEATURED REPOS
+<!-- ═══════════════════════ FEATURED REPOS ═══════════════════════ -->
+
+## 🗂️ FEATURED PROJECTS
 
 <div align="center">
 
-[![Git Quest](https://github-readme-stats.vercel.app/api/pin/?username=sathwikshetty0&repo=Git-Quest-&theme=radical&bg_color=0d1117&title_color=ff6e96&text_color=c9d1d9&icon_color=00ffff&hide_border=true)](https://github.com/sathwikshetty0/Git-Quest-)
-[![Desirability Assessment Tool](https://github-readme-stats.vercel.app/api/pin/?username=sathwikshetty0&repo=Desirability-Assessment-Tool&theme=radical&bg_color=0d1117&title_color=ff6e96&text_color=c9d1d9&icon_color=00ffff&hide_border=true)](https://github.com/sathwikshetty0/Desirability-Assessment-Tool)
+[![AeroWave](https://github-readme-stats.vercel.app/api/pin/?username=sathwikshetty0&repo=Disaster-Response-Management-System-DRMS-&theme=radical&bg_color=0d1117&title_color=ff6e96&text_color=c9d1d9&icon_color=00ffff&hide_border=true&border_radius=12)](https://github.com/sathwikshetty0/Disaster-Response-Management-System-DRMS-)
+[![PID Line Follower](https://github-readme-stats.vercel.app/api/pin/?username=sathwikshetty0&repo=PID-line-Follower&theme=radical&bg_color=0d1117&title_color=ff6e96&text_color=c9d1d9&icon_color=00ffff&hide_border=true&border_radius=12)](https://github.com/sathwikshetty0/PID-line-Follower)
 
-[![Arduino Pick And Place Bot](https://github-readme-stats.vercel.app/api/pin/?username=sathwikshetty0&repo=Arduino-Pick-And-Place-Bot&theme=radical&bg_color=0d1117&title_color=ff6e96&text_color=c9d1d9&icon_color=00ffff&hide_border=true)](https://github.com/sathwikshetty0/Arduino-Pick-And-Place-Bot)
-[![ESP NOW Controller](https://github-readme-stats.vercel.app/api/pin/?username=sathwikshetty0&repo=ESP-NOW-Controller&theme=radical&bg_color=0d1117&title_color=ff6e96&text_color=c9d1d9&icon_color=00ffff&hide_border=true)](https://github.com/sathwikshetty0/ESP-NOW-Controller)
+[![Git Quest](https://github-readme-stats.vercel.app/api/pin/?username=sathwikshetty0&repo=Git-Quest-&theme=radical&bg_color=0d1117&title_color=ff6e96&text_color=c9d1d9&icon_color=00ffff&hide_border=true&border_radius=12)](https://github.com/sathwikshetty0/Git-Quest-)
+[![Desirability Assessment](https://github-readme-stats.vercel.app/api/pin/?username=sathwikshetty0&repo=Desirability-Assessment-Tool&theme=radical&bg_color=0d1117&title_color=ff6e96&text_color=c9d1d9&icon_color=00ffff&hide_border=true&border_radius=12)](https://github.com/sathwikshetty0/Desirability-Assessment-Tool)
 
-[![PID Line Follower](https://github-readme-stats.vercel.app/api/pin/?username=sathwikshetty0&repo=PID-line-Follower&theme=radical&bg_color=0d1117&title_color=ff6e96&text_color=c9d1d9&icon_color=00ffff&hide_border=true)](https://github.com/sathwikshetty0/PID-line-Follower)
-[![Disaster Response System](https://github-readme-stats.vercel.app/api/pin/?username=sathwikshetty0&repo=Disaster-Response-Management-System-DRMS-&theme=radical&bg_color=0d1117&title_color=ff6e96&text_color=c9d1d9&icon_color=00ffff&hide_border=true)](https://github.com/sathwikshetty0/Disaster-Response-Management-System-DRMS-)
+[![Pick And Place Bot](https://github-readme-stats.vercel.app/api/pin/?username=sathwikshetty0&repo=Arduino-Pick-And-Place-Bot&theme=radical&bg_color=0d1117&title_color=ff6e96&text_color=c9d1d9&icon_color=00ffff&hide_border=true&border_radius=12)](https://github.com/sathwikshetty0/Arduino-Pick-And-Place-Bot)
+[![ESP-NOW Controller](https://github-readme-stats.vercel.app/api/pin/?username=sathwikshetty0&repo=ESP-NOW-Controller&theme=radical&bg_color=0d1117&title_color=ff6e96&text_color=c9d1d9&icon_color=00ffff&hide_border=true&border_radius=12)](https://github.com/sathwikshetty0/ESP-NOW-Controller)
 
-[![View All Repos](https://img.shields.io/badge/⚡_View_All_Repositories-0d1117?style=for-the-badge&logo=github&logoColor=ff6e96)](https://github.com/sathwikshetty0?tab=repositories)
+<br/>
+
+[![View All Repos](https://img.shields.io/badge/⚡_Explore_All_Repositories-0d1117?style=for-the-badge&logo=github&logoColor=ff6e96&labelColor=0d1117)](https://github.com/sathwikshetty0?tab=repositories)
 
 </div>
 
 ---
 
+<!-- ═══════════════════════ SYSTEM LOGS ═══════════════════════ -->
+
 ## ⚡ SYSTEM LOGS
 
 ```bash
-$ cat fun_facts.log
-
-[LOG 001] → Got ₹16.5L MSME funding as a college student 💰
-[LOG 002] → Worked on a rocket before landing a full-time job 🚀
-[LOG 003] → My helmet listens to ambulances so deaf riders don't have to 🛵
-[LOG 004] → I build competition robots just because it's fun 🤖
-[LOG 005] → I design UI/UX AND write embedded C++ — rare combo 🎨⚙️
-[LOG 006] → Filed patents before finishing my degree 📜
-[LOG 007] → OpenCV is basically my second language 👁️
-[LOG 008] → Teaching others is how I learn best 🎓
-[LOG 009] → My IDE and oscilloscope are equally important 🔭
+╔══════════════════════════════════════════════════════════════════════╗
+║                    // RUNTIME.LOG — sathwikshetty0 //               ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  [INFO]  Received ₹16.5L MSME funding as a college student     💰   ║
+║  [INFO]  Worked on rocket avionics before landing a job        🚀   ║
+║  [INFO]  My helmet listens for ambulances so deaf riders don't 🛵   ║
+║  [INFO]  Builds competition robots purely for the thrill       🤖   ║
+║  [INFO]  Designs UI/UX AND writes embedded C++ — rare combo    🎨   ║
+║  [INFO]  Filed patents before finishing engineering degree     📜   ║
+║  [INFO]  OpenCV is basically a second language at this point   👁️   ║
+║  [INFO]  Oscilloscope and IDE are equally important tools      🔭   ║
+║  [INFO]  Teaching others is my fastest way to learn            🎓   ║
+║                                                                      ║
+║  [STATUS] ALL SYSTEMS NOMINAL — NEXT BUILD LOADING...               ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## ✍️ RANDOM DEV QUOTE
+<!-- ═══════════════════════ DEV QUOTE ═══════════════════════ -->
 
 <div align="center">
 
@@ -278,9 +395,13 @@ $ cat fun_facts.log
 
 ---
 
+<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:ff6e96,100:0d1117&height=120&section=footer&text=Let's+Build+Something+Extraordinary&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:001a2e,80:003366,100:00ffff&height=140&section=footer&text=Let's+Build+Something+Extraordinary&fontSize=22&fontColor=00ffff&fontAlignY=65&animation=twinkling" />
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sathwikshettyn)
 [![Email](https://img.shields.io/badge/Send_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sathwikshettyn2@gmail.com)
@@ -288,6 +409,8 @@ $ cat fun_facts.log
 
 [![](https://visitcount.itsvg.in/api?id=sathwikshetty0&icon=5&color=8)](https://visitcount.itsvg.in)
 
-*— Sathwik Shetty | Crafted with ☕ & 🚀*
+<br/>
+
+*— Sathwik Shetty · Crafted with ☕, ⚡ & way too many late nights*
 
 </div>
