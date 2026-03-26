@@ -375,24 +375,8 @@ I'm an Engineer living at the intersection of **AI, robotics, hardware, and full
 
 ## ⚡ SYSTEM LOGS
 
-```bash
-╔══════════════════════════════════════════════════════════════════════╗
-║                    // RUNTIME.LOG — sathwikshetty0 //               ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║  [INFO]  Received ₹16.5L MSME funding as a college student     💰   ║
-║  [INFO]  Worked on rocket avionics before landing a job        🚀   ║
-║  [INFO]  My helmet listens for ambulances so deaf riders don't 🛵   ║
-║  [INFO]  Builds competition robots purely for the thrill       🤖   ║
-║  [INFO]  Designs UI/UX AND writes embedded C++ — rare combo    🎨   ║
-║  [INFO]  Filed patents before finishing engineering degree     📜   ║
-║  [INFO]  OpenCV is basically a second language at this point   👁️   ║
-║  [INFO]  Oscilloscope and IDE are equally important tools      🔭   ║
-║  [INFO]  Teaching others is my fastest way to learn            🎓   ║
-║                                                                      ║
-║  [STATUS] ALL SYSTEMS NOMINAL — NEXT BUILD LOADING...               ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+<img src="https://raw.githubusercontent.com/sathwikshetty0/sathwikshetty0/main/facts.svg" width="100%" alt="name-banner" />
+
 
 ---
 
