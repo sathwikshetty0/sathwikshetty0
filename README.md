@@ -7,7 +7,7 @@
 
 <!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
 
-<img src="https://raw.githubusercontent.com/sathwikshetty0/sathwikshetty0/main/roles.svj" width="100%" alt="roles" />
+<img src="https://raw.githubusercontent.com/sathwikshetty0/sathwikshetty0/main/roles.svg" width="100%" alt="roles" />
 
 
 <br/>
