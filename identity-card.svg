@@ -170,18 +170,18 @@ fill="#ff6e96">ROS</text>
 </g>
 
 <g class="tag">
-<rect x="140" y="210" width="70" height="20" rx="3"
-fill="#ff6e96" opacity="0.1"
-stroke="#ff6e96"/>
-<text x="175" y="224" text-anchor="middle"
-fill="#ff6e96">IOT</text>
+<rect x="46" y="210" width="80" height="20" rx="3"
+fill="#00ffff" opacity="0.1"
+stroke="#00ffff"/>
+<text x="275" y="224" text-anchor="middle"
+fill="#00ffff">IOT</text>
 </g>
 
 <g class="tag">
-<rect x="140" y="210" width="70" height="20" rx="3"
+<rect x="340" y="210" width="70" height="20" rx="3"
 fill="#ff6e96" opacity="0.1"
 stroke="#ff6e96"/>
-<text x="175" y="224" text-anchor="middle"
+<text x="375" y="224" text-anchor="middle"
 fill="#ff6e96">Ollama</text>
 </g>
 
