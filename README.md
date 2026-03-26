@@ -7,18 +7,16 @@
 
 <!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
 
-<img src="https://raw.githubusercontent.com/sathwikshetty0/sathwikshetty0/main/roles.svg" width="100%" alt="roles" />
+<img src="https://raw.githubusercontent.com/sathwikshetty0/sathwikshetty0/main/roles.svg" width="80%" alt="roles" />
 
 
 <br/>
 
 <!-- ═══════════════════════ SOCIAL BADGES ═══════════════════════ -->
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sathwikshettyn)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sathwik__shetty__)
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sathwikshettyn2@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sathwikshetty0)
-[![Profile Views](https://komarev.com/ghpvc/?username=sathwikshetty0&style=for-the-badge&color=00ffff&label=VISITORS)](https://github.com/sathwikshetty0)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-00ffff?style=for-the-badge&logo=linkedin&logoColor=0d1117)](https://linkedin.com/in/sathwikshettyn)
+[![Instagram](https://img.shields.io/badge/-Instagram-ff6e96?style=for-the-badge&logo=instagram&logoColor=0d1117)](https://instagram.com/sathwik__shetty__)
+[![Gmail](https://img.shields.io/badge/-Gmail-ff6e96?style=for-the-badge&logo=gmail&logoColor=0d1117)](mailto:sathwikshettyn2@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-00ffff?style=for-the-badge&logo=github&logoColor=0d1117)](https://github.com/sathwikshetty0)
 
 </div>
 
@@ -29,24 +27,6 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/sathwikshetty0/sathwikshetty0/main/identity-card.svg" width="100%" alt="System Identity Card" />
-
-</div>
-
-<br/>
-
----
-
-<!-- ═══════════════════════ SNAKE CONTRIBUTION GRAPH ═══════════════════════ -->
-
-<div align="center">
-
-### 🐍 CONTRIBUTION SNAKE
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sathwikshetty0/sathwikshetty0/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sathwikshetty0/sathwikshetty0/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sathwikshetty0/sathwikshetty0/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
 
 </div>
 
