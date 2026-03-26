@@ -1,0 +1,115 @@
+<svg width="900" height="120" viewBox="0 0 900 120"
+xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+<style>
+
+/* TEXT STYLE */
+.txt {
+  font-family: 'Courier New', monospace;
+  font-size: 20px;
+  fill: #00ffff;
+  letter-spacing: 1.5px;
+  filter: drop-shadow(0 0 6px #00ffffaa);
+}
+
+/* PREFIX */
+.prefix {
+  fill: #00ff88;
+}
+
+/* BLINK CURSOR */
+.cursor {
+  animation: blink 1s step-end infinite;
+}
+@keyframes blink {
+  0%,100%{opacity:1}
+  50%{opacity:0}
+}
+
+/* LINE ANIMATION */
+.line {
+  opacity: 0;
+  animation: show 10s infinite;
+}
+
+.line:nth-child(1){animation-delay:0s}
+.line:nth-child(2){animation-delay:2s}
+.line:nth-child(3){animation-delay:4s}
+.line:nth-child(4){animation-delay:6s}
+.line:nth-child(5){animation-delay:8s}
+
+@keyframes show {
+  0% { opacity: 0; transform: translateY(10px); }
+  5% { opacity: 1; transform: translateY(0); }
+  18% { opacity: 1; }
+  22% { opacity: 0; }
+  100% { opacity: 0; }
+}
+
+/* FLICKER */
+.flicker {
+  animation: flick 6s infinite;
+}
+@keyframes flick {
+  0%,97%,100%{opacity:1}
+  98%{opacity:0.4}
+  99%{opacity:0.7}
+}
+
+/* SCANLINE */
+.scan {
+  animation: scan 3s linear infinite;
+}
+@keyframes scan {
+  0%{transform:translateY(-10px);opacity:0}
+  10%{opacity:0.08}
+  90%{opacity:0.05}
+  100%{transform:translateY(140px);opacity:0}
+}
+
+</style>
+
+</defs>
+
+<!-- BACKGROUND -->
+<rect width="900" height="120" fill="#020c0c"/>
+
+<!-- TERMINAL LABEL -->
+<text x="40" y="28" class="txt prefix flicker">
+&gt; SYSTEM.ROLES
+</text>
+
+<!-- ROTATING TEXT -->
+<g transform="translate(40,70)">
+
+  <text class="txt line">
+  🤖 AI Engineer | RAG | LangChain | OpenCV
+  </text>
+
+  <text class="txt line">
+  🛵 Creator of AeroWave — ₹16.5L MSME Funded
+  </text>
+
+  <text class="txt line">
+  🚀 Rocket Avionics | Patent Holder | Mentor
+  </text>
+
+  <text class="txt line">
+  ⚡ Robotics | Embedded Systems | Full-Stack
+  </text>
+
+  <text class="txt line">
+  🧠 Building tech that actually matters
+  </text>
+
+</g>
+
+<!-- CURSOR -->
+<text x="860" y="70" class="txt cursor">█</text>
+
+<!-- SCANLINE -->
+<rect width="900" height="3" fill="#00ffff" opacity="0.08" class="scan"/>
+
+</svg>
