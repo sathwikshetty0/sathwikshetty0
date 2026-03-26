@@ -2,13 +2,13 @@
 
 <!-- ═══════════════════════ HERO BANNER ═══════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,30:001a1a,60:003333,100:00ffff&height=320&section=header&text=SATHWIK%20SHETTY&fontSize=78&fontColor=00ffff&fontAlignY=40&desc=⚡%20Engineer%20·%20Builder%20·%20Innovator%20·%20Disruptor%20⚡&descAlignY=62&descSize=22&descColor=a0f0f0&animation=twinkling&stroke=00ffff&strokeWidth=3" />
+<img src="https://raw.githubusercontent.com/sathwikshetty0/sathwikshetty0/main/name-banner.svg" width="100%" alt="name-banner" />
 
-<br/>
 
 <!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=1800&pause=500&color=00FFFF&center=true&vCenter=true&multiline=false&width=850&lines=🤖+AI+Engineer+%7C+RAG+%7C+LangChain+%7C+OpenCV;🛵+Creator+of+AeroWave+—+₹16.5L+MSME+Funded;🚀+Rocket+Avionics+%7C+Patent+Holder+%7C+Mentor;⚡+Robotics+%7C+Embedded+Systems+%7C+Full-Stack;🧠+Building+tech+that+actually+matters" alt="Typing SVG" />
+<img src="https://raw.githubusercontent.com/sathwikshetty0/sathwikshetty0/main/roles.svj" width="100%" alt="roles" />
+
 
 <br/>
 
