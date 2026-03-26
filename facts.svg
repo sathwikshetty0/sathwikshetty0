@@ -1,0 +1,134 @@
+<svg width="900" height="300" viewBox="0 0 900 300"
+xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+<style>
+
+/* === COLORS === */
+:root {
+  --primary:#00aaff;
+  --bg:#00101a;
+}
+
+/* === TERMINAL TEXT === */
+.text {
+  font-family: monospace;
+  fill: var(--primary);
+  font-size: 14px;
+  letter-spacing: 1px;
+  filter: url(#glow);
+}
+
+/* === BORDER === */
+.border {
+  stroke: var(--primary);
+  fill: none;
+  opacity: 0.6;
+  stroke-width:2;
+  rx:8;
+}
+
+/* === FLOATING PARTICLES === */
+.money {
+  font-size: 16px;
+  animation: floatUp 10s linear infinite;
+  opacity: 0.4;
+}
+
+.rocket {
+  font-size: 18px;
+  animation: fly 12s linear infinite;
+  opacity: 0.6;
+}
+
+@keyframes floatUp {
+  from { transform: translateY(260px); opacity:0; }
+  20% { opacity:0.5; }
+  to { transform: translateY(-40px); opacity:0; }
+}
+
+@keyframes fly {
+  from { transform: translate(-100px,200px) rotate(0deg);}
+  50% { transform: translate(400px,100px) rotate(15deg);}
+  to { transform: translate(1000px,-50px) rotate(-10deg);}
+}
+
+/* === SCANLINE === */
+.scan {
+  animation: scan 3s linear infinite;
+}
+
+@keyframes scan {
+  from { transform: translateY(-20px); }
+  to { transform: translateY(300px); }
+}
+
+/* === FLICKER === */
+.flicker {
+  animation: flick 5s infinite;
+}
+
+@keyframes flick {
+  0%, 97%, 100% { opacity: 1; }
+  98% { opacity: 0.4; }
+  99% { opacity: 0.7; }
+}
+
+</style>
+
+<!-- GLOW -->
+<filter id="glow">
+  <feGaussianBlur stdDeviation="1.5" result="blur"/>
+  <feMerge>
+    <feMergeNode in="blur"/>
+    <feMergeNode in="SourceGraphic"/>
+  </feMerge>
+</filter>
+
+<!-- DISTORTION -->
+<filter id="warp">
+  <feTurbulence type="fractalNoise" baseFrequency="0.002" numOctaves="2">
+    <animate attributeName="baseFrequency" values="0.002;0.004;0.002" dur="10s" repeatCount="indefinite"/>
+  </feTurbulence>
+  <feDisplacementMap in="SourceGraphic" scale="6"/>
+</filter>
+
+</defs>
+
+<!-- BACKGROUND -->
+<rect width="900" height="300" fill="var(--bg)"/>
+
+<!-- TERMINAL BOX -->
+<g filter="url(#warp)">
+  <rect x="10" y="10" width="880" height="280" class="border"/>
+  
+  <!-- TITLE -->
+  <text x="30" y="40" class="text flicker">$ cat fun_facts.log</text>
+  
+  <!-- LOGS -->
+  <text x="30" y="70" class="text">[LOG 001] → Got ₹16.5L MSME funding as a college student 💰</text>
+  <text x="30" y="90" class="text">[LOG 002] → I've worked on a rocket before a full-time job 🚀</text>
+  <text x="30" y="110" class="text">[LOG 003] → My helmet listens to ambulances so deaf riders don't have to 🛵</text>
+  <text x="30" y="130" class="text">[LOG 004] → I build competition robots just because it's fun 🤖</text>
+  <text x="30" y="150" class="text">[LOG 005] → I design UI/UX AND write embedded C — rare combo 🎨⚙️</text>
+  <text x="30" y="170" class="text">[LOG 006] → I've filed patents before finishing my degree 📜</text>
+  <text x="30" y="190" class="text">[LOG 007] → OpenCV is basically my second language 👁️</text>
+  <text x="30" y="210" class="text">[LOG 008] → Teaching others is how I learn best 🎓</text>
+  <text x="30" y="230" class="text">[LOG 009] → My IDE and oscilloscope are equally important tools 🔭</text>
+</g>
+
+<!-- FLOATING MONEY -->
+<text x="120" y="280" class="money">💸</text>
+<text x="400" y="270" class="money">💸</text>
+<text x="650" y="290" class="money">💸</text>
+
+<!-- ROCKETS -->
+<text x="-100" y="200" class="rocket">🚀</text>
+<text x="-250" y="150" class="rocket">🚀</text>
+<text x="-50" y="250" class="rocket">🚀</text>
+
+<!-- SCANLINE -->
+<rect width="900" height="4" fill="#00aaff22" class="scan"/>
+
+</svg>
