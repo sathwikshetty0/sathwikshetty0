@@ -5,80 +5,60 @@ xmlns="http://www.w3.org/2000/svg">
 
 <style>
 
-/* === BACKGROUND GRID === */
-.grid {
-  fill: none;
-  stroke: #00ffff;
-  stroke-width: 0.2;
-  opacity: 0.08;
+/* === BASE COLORS === */
+:root {
+  --primary: #00ffff;
+  --bg: #021010;
 }
 
-/* === GLOW TEXT === */
+/* === GRID === */
+.grid {
+  fill: none;
+  stroke: var(--primary);
+  stroke-width: 0.2;
+  opacity: 0.06;
+}
+
+/* === TEXT === */
 .name {
   font-family: 'Courier New', monospace;
   font-size: 58px;
   letter-spacing: 6px;
-  fill: #00ffff;
-  filter: drop-shadow(0 0 6px #00ffffaa);
-  animation: glow 3s ease-in-out infinite;
+  fill: var(--primary);
+  filter: url(#glow);
+  animation: floatText 6s ease-in-out infinite;
 }
 
-@keyframes glow {
-  0%,100% { filter: drop-shadow(0 0 6px #00ffffaa); }
-  50% { filter: drop-shadow(0 0 20px #00ffff); }
-}
-
-/* === GLITCH === */
-.glitch {
-  animation: glitch 6s infinite;
-}
-
-@keyframes glitch {
-  0%, 95%, 100% { transform: translate(0,0); }
-  96% { transform: translate(-2px,1px); }
-  97% { transform: translate(2px,-1px); }
-  98% { transform: translate(-1px,0); }
-}
-
-/* === SCANLINE === */
-.scanline {
-  animation: scan 3s linear infinite;
-}
-
-@keyframes scan {
-  0% { transform: translateY(-10px); opacity: 0; }
-  10% { opacity: 0.1; }
-  90% { opacity: 0.05; }
-  100% { transform: translateY(200px); opacity: 0; }
+@keyframes floatText {
+  0%,100% { transform: translate(0,0); }
+  50% { transform: translate(0,-2px); }
 }
 
 /* === ENERGY LINE === */
 .energy {
-  stroke: url(#grad);
+  stroke: var(--primary);
   stroke-width: 2;
-  stroke-dasharray: 200,700;
-  animation: dash 3s linear infinite;
+  fill: none;
+  filter: url(#glow);
 }
 
-@keyframes dash {
-  to { stroke-dashoffset: -900; }
+/* === PARTICLES === */
+.p {
+  fill: var(--primary);
+  opacity: 0.5;
+  animation: drift 8s infinite linear;
 }
 
-/* === FLICKER === */
-.flicker {
-  animation: flick 5s infinite;
+@keyframes drift {
+  0% { transform: translate(0,0); opacity: 0; }
+  20% { opacity: 0.6; }
+  100% { transform: translate(0,-60px); opacity: 0; }
 }
 
-@keyframes flick {
-  0%, 97%, 100% { opacity: 1; }
-  98% { opacity: 0.4; }
-  99% { opacity: 0.7; }
-}
-
-/* === PULSE DOT === */
+/* === DOT === */
 .dot {
-  fill: #00ff88;
-  animation: pulse 1s infinite;
+  fill: #00ffaa;
+  animation: pulse 1.2s infinite;
 }
 
 @keyframes pulse {
@@ -86,56 +66,93 @@ xmlns="http://www.w3.org/2000/svg">
   50% { opacity: 0.2; }
 }
 
+/* === SCANLINE === */
+.scan {
+  animation: scan 3s linear infinite;
+}
+
+@keyframes scan {
+  from { transform: translateY(-10px); }
+  to { transform: translateY(200px); }
+}
+
 </style>
 
-<!-- GRID PATTERN -->
+<!-- GRID -->
 <pattern id="p" width="40" height="40" patternUnits="userSpaceOnUse">
   <path d="M 40 0 L 0 0 0 40" class="grid"/>
 </pattern>
 
-<!-- GRADIENT -->
-<linearGradient id="grad">
-  <stop offset="0%" stop-color="#00ffff" stop-opacity="0"/>
-  <stop offset="50%" stop-color="#00ffff"/>
-  <stop offset="100%" stop-color="#00ffff" stop-opacity="0"/>
-</linearGradient>
+<!-- GLOW FILTER -->
+<filter id="glow">
+  <feGaussianBlur stdDeviation="2" result="blur"/>
+  <feMerge>
+    <feMergeNode in="blur"/>
+    <feMergeNode in="SourceGraphic"/>
+  </feMerge>
+</filter>
+
+<!-- LIQUID DISTORTION -->
+<filter id="liquid">
+  <feTurbulence type="fractalNoise" baseFrequency="0.01" numOctaves="2" seed="2">
+    <animate attributeName="baseFrequency" values="0.01;0.02;0.01" dur="6s" repeatCount="indefinite"/>
+  </feTurbulence>
+  <feDisplacementMap in="SourceGraphic" scale="8"/>
+</filter>
 
 </defs>
 
 <!-- BACKGROUND -->
-<rect width="900" height="180" fill="#020c0c"/>
+<rect width="900" height="180" fill="var(--bg)"/>
 <rect width="900" height="180" fill="url(#p)"/>
 
-<!-- BORDER -->
-<rect x="5" y="5" width="890" height="170"
-fill="none" stroke="#00ffff" opacity="0.5"/>
+<!-- ENERGY WAVES (PHYSICS FEEL) -->
+<path d="M40 40 Q200 60 350 40 T650 40 T860 40"
+class="energy" filter="url(#liquid)">
+  <animate attributeName="d"
+    dur="4s"
+    repeatCount="indefinite"
+    values="
+    M40 40 Q200 60 350 40 T650 40 T860 40;
+    M40 40 Q200 20 350 40 T650 60 T860 40;
+    M40 40 Q200 60 350 40 T650 40 T860 40"/>
+</path>
 
-<!-- ENERGY LINES -->
-<line x1="40" y1="40" x2="860" y2="40" class="energy"/>
-<line x1="40" y1="140" x2="860" y2="140" class="energy"/>
+<path d="M40 140 Q200 120 350 140 T650 140 T860 140"
+class="energy" filter="url(#liquid)">
+  <animate attributeName="d"
+    dur="4s"
+    repeatCount="indefinite"
+    values="
+    M40 140 Q200 120 350 140 T650 140 T860 140;
+    M40 140 Q200 160 350 140 T650 120 T860 140;
+    M40 140 Q200 120 350 140 T650 140 T860 140"/>
+</path>
 
 <!-- NAME -->
-<g class="glitch">
-<text x="450" y="100" text-anchor="middle" class="name flicker">
+<text x="450" y="100" text-anchor="middle"
+class="name">
 SATHWIK SHETTY
 </text>
-</g>
 
 <!-- SUBTITLE -->
 <text x="450" y="130" text-anchor="middle"
-fill="#a0f0f0"
+fill="#88dddd"
 font-size="14"
-letter-spacing="3"
-class="flicker">
+letter-spacing="3">
 ENGINEER · BUILDER · INNOVATOR
 </text>
+
+<!-- PARTICLES -->
+<circle cx="200" cy="150" r="2" class="p"/>
+<circle cx="600" cy="160" r="2" class="p"/>
+<circle cx="750" cy="140" r="2" class="p"/>
+<circle cx="400" cy="170" r="2" class="p"/>
 
 <!-- STATUS DOT -->
 <circle cx="820" cy="25" r="3" class="dot"/>
 
 <!-- SCANLINE -->
-<rect width="900" height="4" fill="#00ffff"
-opacity="0.1"
-class="scanline"/>
+<rect width="900" height="3" fill="#00ffff22" class="scan"/>
 
 </svg>
