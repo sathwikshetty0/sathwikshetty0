@@ -2,11 +2,13 @@
 
 <!-- ═══════════════════════ HERO BANNER ═══════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,30:001a1a,60:003333,100:00ffff&height=300&section=header&text=SATHWIK%20SHETTY&fontSize=72&fontColor=00ffff&fontAlignY=40&desc=⚡%20Engineer%20·%20Builder%20·%20Innovator%20·%20Disruptor%20⚡&descAlignY=60&descSize=20&descColor=a0f0f0&animation=twinkling&stroke=00ffff&strokeWidth=2" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,30:001a1a,60:003333,100:00ffff&height=320&section=header&text=SATHWIK%20SHETTY&fontSize=78&fontColor=00ffff&fontAlignY=40&desc=⚡%20Engineer%20·%20Builder%20·%20Innovator%20·%20Disruptor%20⚡&descAlignY=62&descSize=22&descColor=a0f0f0&animation=twinkling&stroke=00ffff&strokeWidth=3" />
+
+<br/>
 
 <!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2000&pause=600&color=00FFFF&center=true&vCenter=true&width=800&lines=🤖+AI+Engineer+%7C+RAG+%7C+LangChain+%7C+OpenCV;🛵+Creator+of+AeroWave+—+₹16.5L+MSME+Funded;🚀+Rocket+Avionics+%7C+Patent+Holder+%7C+Mentor;⚡+Robotics+%7C+Embedded+Systems+%7C+Full-Stack;🧠+Building+tech+that+actually+matters" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=1800&pause=500&color=00FFFF&center=true&vCenter=true&multiline=false&width=850&lines=🤖+AI+Engineer+%7C+RAG+%7C+LangChain+%7C+OpenCV;🛵+Creator+of+AeroWave+—+₹16.5L+MSME+Funded;🚀+Rocket+Avionics+%7C+Patent+Holder+%7C+Mentor;⚡+Robotics+%7C+Embedded+Systems+%7C+Full-Stack;🧠+Building+tech+that+actually+matters" alt="Typing SVG" />
 
 <br/>
 
@@ -22,37 +24,61 @@
 
 <br/>
 
-<!-- ═══════════════════════ IDENTITY CARD ═══════════════════════ -->
+<!-- ═══════════════════════ ANIMATED IDENTITY CARD ═══════════════════════ -->
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│   ██████  ██████  ██████  ██████  ██████  ██████  ██████  ██████   │
-│                     SYSTEM IDENTITY // v2.6.0                      │
-│   ██████  ██████  ██████  ██████  ██████  ██████  ██████  ██████   │
-│                                                                     │
-│   NAME         ──▶  Sathwik Shetty                                 │
-│   ROLE         ──▶  CS Engineer · Product Dev · Mentor             │
-│   LOCATION     ──▶  Mangaluru, Karnataka 🇮🇳                        │
-│   INSTITUTION  ──▶  Sahyadri College of Engineering & Mgmt         │
-│   STATUS       ──▶  ████████████████████ ONLINE — Building ∞       │
-│   CORE STACK   ──▶  AI · RAG · OpenCV · IoT · ROS · Full-Stack     │
-│   MISSION      ──▶  Merge AI × Hardware × Software for real impact │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
-```
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sathwikshetty0/sathwikshetty0/main/identity-card.svg" width="100%" alt="System Identity Card" />
+
+</div>
 
 <br/>
+
+---
 
 <!-- ═══════════════════════ SNAKE CONTRIBUTION GRAPH ═══════════════════════ -->
 
 <div align="center">
 
+### 🐍 CONTRIBUTION SNAKE
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sathwikshetty0/sathwikshetty0/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sathwikshetty0/sathwikshetty0/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sathwikshetty0/sathwikshetty0/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sathwikshetty0/sathwikshetty0/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════ USER CONTRIBUTION SVG ═══════════════════════ -->
+
+<div align="center">
+
+### ✨ CONTRIBUTION CONSTELLATION
+
+<img src="https://raw.githubusercontent.com/sathwikshetty0/sathwikshetty0/main/github-user-contribution.svg" alt="Contribution Graph" width="100%" />
+
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════ GIT CITY ═══════════════════════ -->
+
+<div align="center">
+
+### 🏙️ MY GIT CITY — *Every commit builds a skyline*
+
+<a href="https://www.thegitcity.com/dev/sathwikshetty0" target="_blank">
+  <img src="https://raw.githubusercontent.com/sathwikshetty0/sathwikshetty0/main/git-city-card.png" width="100%" alt="Git City — sathwikshetty0" />
+</a>
+
+<br/>
+
+[![Explore Git City Live](https://img.shields.io/badge/🏙️_EXPLORE_MY_GIT_CITY_LIVE-Click_to_Open_3D_City-00ffff?style=for-the-badge&labelColor=0d1117)](https://www.thegitcity.com/dev/sathwikshetty0)
 
 </div>
 
@@ -64,9 +90,9 @@
 
 > *"The best way to predict the future is to invent it."* — Alan Kay
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
 
-I'm a Engineer living at the intersection of **AI, robotics, hardware, and full-stack development**. I don't just write code — I build systems that **matter**.
+I'm an Engineer living at the intersection of **AI, robotics, hardware, and full-stack development**. I don't just write code — I build systems that **matter**.
 
 - 🧠 **AI & RAG Enthusiast** — LangChain, LangFlow, vector DBs, agentic pipelines
 - 👁️ **OpenCV Obsessive** — Computer vision is my superpower
@@ -196,7 +222,7 @@ I'm a Engineer living at the intersection of **AI, robotics, hardware, and full-
 
 </details>
 
-<details>
+<details open>
 <summary><b>🖥️ Frontend & UI</b></summary>
 <br/>
 
@@ -210,7 +236,7 @@ I'm a Engineer living at the intersection of **AI, robotics, hardware, and full-
 
 </details>
 
-<details>
+<details open>
 <summary><b>⚙️ Backend & APIs</b></summary>
 <br/>
 
@@ -222,7 +248,7 @@ I'm a Engineer living at the intersection of **AI, robotics, hardware, and full-
 
 </details>
 
-<details>
+<details open>
 <summary><b>🤖 AI · ML · RAG · Vision</b></summary>
 <br/>
 
@@ -240,7 +266,7 @@ I'm a Engineer living at the intersection of **AI, robotics, hardware, and full-
 
 </details>
 
-<details>
+<details open>
 <summary><b>🛰️ Hardware · IoT · Robotics</b></summary>
 <br/>
 
@@ -250,7 +276,7 @@ I'm a Engineer living at the intersection of **AI, robotics, hardware, and full-
 
 </details>
 
-<details>
+<details open>
 <summary><b>☁️ Cloud · DevOps · CI/CD</b></summary>
 <br/>
 
@@ -265,7 +291,7 @@ I'm a Engineer living at the intersection of **AI, robotics, hardware, and full-
 
 </details>
 
-<details>
+<details open>
 <summary><b>🗄️ Databases</b></summary>
 <br/>
 
@@ -277,7 +303,7 @@ I'm a Engineer living at the intersection of **AI, robotics, hardware, and full-
 
 </details>
 
-<details>
+<details open>
 <summary><b>🎨 Design · Creative · 3D</b></summary>
 <br/>
 
@@ -305,9 +331,19 @@ I'm a Engineer living at the intersection of **AI, robotics, hardware, and full-
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sathwikshetty0&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ff6e96&text_color=c9d1d9&icon_color=00ffff&border_radius=12" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathwikshetty0&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6e96&text_color=c9d1d9&border_radius=12" />
 
-<br/>
+<br/><br/>
 
 <img width="70%" src="https://streak-stats.demolab.com?user=sathwikshetty0&theme=radical&hide_border=true&background=0d1117&ring=ff6e96&fire=ff6e96&currStreakLabel=00ffff&sideLabels=ff6e96&dates=c9d1d9&stroke=0d1117&border_radius=12" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sathwikshetty0&theme=radical" width="98%" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sathwikshetty0&theme=radical" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sathwikshetty0&theme=radical" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sathwikshetty0&theme=radical&utcOffset=5.5" width="32%" />
 
 </div>
 
@@ -399,13 +435,14 @@ I'm a Engineer living at the intersection of **AI, robotics, hardware, and full-
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:001a2e,80:003366,100:00ffff&height=140&section=footer&text=Let's+Build+Something+Extraordinary&fontSize=22&fontColor=00ffff&fontAlignY=65&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:001a2e,80:003366,100:00ffff&height=160&section=footer&text=Let's+Build+Something+Extraordinary&fontSize=24&fontColor=00ffff&fontAlignY=65&animation=twinkling" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sathwikshettyn)
 [![Email](https://img.shields.io/badge/Send_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sathwikshettyn2@gmail.com)
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sathwikshetty0)
+[![Git City](https://img.shields.io/badge/🏙️_Visit_Git_City-00ffff?style=for-the-badge&labelColor=0d1117)](https://www.thegitcity.com/dev/sathwikshetty0)
 
 [![](https://visitcount.itsvg.in/api?id=sathwikshetty0&icon=5&color=8)](https://visitcount.itsvg.in)
 
