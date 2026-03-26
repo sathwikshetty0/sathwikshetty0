@@ -44,25 +44,7 @@
 
 <br/>
 
----
 
-<!-- ═══════════════════════ GIT CITY ═══════════════════════ -->
-
-<div align="center">
-
-### 🏙️ MY GIT CITY — *Every commit builds a skyline*
-
-<a href="https://www.thegitcity.com/dev/sathwikshetty0" target="_blank">
-  <img src="https://raw.githubusercontent.com/sathwikshetty0/sathwikshetty0/main/git-city-card.png" width="100%" alt="Git City — sathwikshetty0" />
-</a>
-
-<br/>
-
-[![Explore Git City Live](https://img.shields.io/badge/🏙️_EXPLORE_MY_GIT_CITY_LIVE-Click_to_Open_3D_City-00ffff?style=for-the-badge&labelColor=0d1117)](https://www.thegitcity.com/dev/sathwikshetty0)
-
-</div>
-
----
 
 <!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
 
@@ -375,6 +357,19 @@ I'm an Engineer living at the intersection of **AI, robotics, hardware, and full
 </div>
 
 ---
+<div align="center">
+
+### 🏙️ MY GIT CITY — *Every commit builds a skyline*
+
+<a href="https://www.thegitcity.com/dev/sathwikshetty0" target="_blank">
+  <img src="https://raw.githubusercontent.com/sathwikshetty0/sathwikshetty0/main/git-city-card.png" width="100%" alt="Git City — sathwikshetty0" />
+</a>
+
+<br/>
+
+[![Explore Git City Live](https://img.shields.io/badge/🏙️_EXPLORE_MY_GIT_CITY_LIVE-Click_to_Open_3D_City-00ffff?style=for-the-badge&labelColor=0d1117)](https://www.thegitcity.com/dev/sathwikshetty0)
+
+</div>
 
 <!-- ═══════════════════════ SYSTEM LOGS ═══════════════════════ -->
 
