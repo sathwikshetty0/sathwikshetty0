@@ -1,285 +1,195 @@
-<svg width="860" height="310" viewBox="0 0 860 310" xmlns="http://www.w3.org/2000/svg" font-family="'Courier New', Courier, monospace">
-  <defs>
-    <style>
-      .scanline { animation: scan 4s linear infinite; }
-      @keyframes scan {
-        0%   { transform: translateY(-10px); opacity: 0; }
-        5%   { opacity: 0.06; }
-        95%  { opacity: 0.04; }
-        100% { transform: translateY(320px); opacity: 0; }
-      }
-      .blink { animation: blink 1.1s step-end infinite; }
-      @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} }
+<svg width="860" height="310" viewBox="0 0 860 310"
+xmlns="http://www.w3.org/2000/svg"
+font-family="'Courier New', Courier, monospace">
 
-      .row { opacity: 0; animation: fadein 0.45s ease forwards; }
-      .row:nth-child(1){animation-delay:0.25s}
-      .row:nth-child(2){animation-delay:0.55s}
-      .row:nth-child(3){animation-delay:0.85s}
-      .row:nth-child(4){animation-delay:1.15s}
-      @keyframes fadein {
-        from{opacity:0;transform:translateX(-10px)}
-        to{opacity:1;transform:translateX(0)}
-      }
+<defs>
 
-      .pulse-bar { animation: pb 2s ease-in-out infinite; }
-      @keyframes pb { 0%,100%{opacity:.9} 50%{opacity:.3} }
+<style>
+/* === SCANLINE === */
+.scanline { animation: scan 3s linear infinite; }
+@keyframes scan {
+  0% { transform: translateY(-10px); opacity: 0; }
+  10% { opacity: 0.08; }
+  90% { opacity: 0.05; }
+  100% { transform: translateY(320px); opacity: 0; }
+}
 
-      .glitch { animation: glitch 10s ease-in-out infinite; }
-      @keyframes glitch {
-        0%,92%,100%{transform:translate(0,0);opacity:1;filter:none}
-        93%{transform:translate(-3px,1px);opacity:.75;filter:hue-rotate(80deg)}
-        95%{transform:translate(3px,-1px);opacity:.88;filter:hue-rotate(-50deg)}
-        96%{transform:translate(0,0);opacity:1;filter:none}
-      }
+/* === BLINK === */
+.blink { animation: blink 1s step-end infinite; }
+@keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} }
 
-      .corner { animation: cblink 3.5s ease-in-out infinite; }
-      @keyframes cblink { 0%,78%,100%{opacity:1} 82%{opacity:.15} 86%{opacity:1} 90%{opacity:.25} }
+/* === ROW FADE === */
+.row { opacity: 0; animation: fadein 0.5s ease forwards; }
+.row:nth-child(1){animation-delay:0.3s}
+.row:nth-child(2){animation-delay:0.6s}
+.row:nth-child(3){animation-delay:0.9s}
+.row:nth-child(4){animation-delay:1.2s}
 
-      .px  { animation: pa 3.5s linear infinite; }
-      .px2 { animation: pa 3.5s linear infinite reverse; }
-      @keyframes pa { 0%{opacity:.12} 35%{opacity:.5} 65%{opacity:.18} 85%{opacity:.55} 100%{opacity:.12} }
+@keyframes fadein {
+  from{opacity:0;transform:translateX(-10px)}
+  to{opacity:1;transform:translateX(0)}
+}
 
-      .sidebar { animation: sp 3s ease-in-out infinite; }
-      @keyframes sp { 0%,100%{opacity:.85} 50%{opacity:.2} }
+/* === GLOW === */
+.nameglow {
+  filter: drop-shadow(0 0 6px #00ffffaa);
+  animation: ng 3s ease-in-out infinite;
+}
+@keyframes ng {
+  0%,100%{filter:drop-shadow(0 0 5px #00ffff88)}
+  50%{filter:drop-shadow(0 0 14px #00ffff)}
+}
 
-      .tag{opacity:0;animation:tf 0.4s ease forwards}
-      .tag:nth-child(1){animation-delay:1.6s}
-      .tag:nth-child(2){animation-delay:1.8s}
-      .tag:nth-child(3){animation-delay:2.0s}
-      .tag:nth-child(4){animation-delay:2.2s}
-      .tag:nth-child(5){animation-delay:2.4s}
-      .tag:nth-child(6){animation-delay:2.6s}
-      @keyframes tf{from{opacity:0;transform:translateY(5px)}to{opacity:1;transform:translateY(0)}}
+/* === TAG HOVER === */
+.tag:hover rect {
+  fill-opacity:0.25;
+  stroke-opacity:1;
+  transform:scale(1.05);
+}
+.tag:hover text {
+  filter:drop-shadow(0 0 6px #00ffff);
+}
 
-      .ftxt{opacity:0;animation:fadein 0.5s ease 2.8s forwards}
+/* === FLICKER === */
+.flicker { animation: flick 6s infinite; }
+@keyframes flick {
+  0%,97%,100%{opacity:1}
+  98%{opacity:0.4}
+  99%{opacity:0.7}
+}
 
-      .nameglow{animation:ng 3s ease-in-out infinite}
-      @keyframes ng{0%,100%{filter:drop-shadow(0 0 4px #00ffff88)}50%{filter:drop-shadow(0 0 12px #00ffffcc)}}
+/* === SIDEBAR === */
+.sidebar { animation: sp 3s ease-in-out infinite; }
+@keyframes sp { 0%,100%{opacity:.8} 50%{opacity:.2} }
 
-      .drawline{stroke-dasharray:840;stroke-dashoffset:840;animation:draw 1s ease 0.1s forwards}
-      @keyframes draw{to{stroke-dashoffset:0}}
-    </style>
+</style>
 
-    <clipPath id="mc">
-      <rect x="4" y="4" width="852" height="302" rx="10"/>
-    </clipPath>
+<!-- GRID -->
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+  <path d="M 40 0 L 0 0 0 40"
+        fill="none"
+        stroke="#00ffff"
+        stroke-width="0.2"
+        opacity="0.06"/>
+</pattern>
 
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#00ffff" stroke-width="0.18" opacity="0.07"/>
-    </pattern>
+<!-- NOISE -->
+<filter id="noise">
+  <feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="2"/>
+  <feColorMatrix type="saturate" values="0"/>
+  <feComponentTransfer>
+    <feFuncA type="table" tableValues="0 0 0.03 0"/>
+  </feComponentTransfer>
+</filter>
 
-    <linearGradient id="leftglow" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%"   stop-color="#00ffff" stop-opacity="0.06"/>
-      <stop offset="60%"  stop-color="#00ffff" stop-opacity="0.01"/>
-      <stop offset="100%" stop-color="#00ffff" stop-opacity="0"/>
-    </linearGradient>
+<!-- ENERGY LINE -->
+<linearGradient id="energy">
+  <stop offset="0%" stop-color="#00ffff" stop-opacity="0"/>
+  <stop offset="50%" stop-color="#00ffff"/>
+  <stop offset="100%" stop-color="#00ffff" stop-opacity="0"/>
+</linearGradient>
 
-    <linearGradient id="titlegrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%"   stop-color="#00ffff"/>
-      <stop offset="50%"  stop-color="#b0ffff"/>
-      <stop offset="100%" stop-color="#00ffff"/>
-    </linearGradient>
+</defs>
 
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="2.5" result="b"/>
-      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <filter id="softglow">
-      <feGaussianBlur stdDeviation="5" result="b"/>
-      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-  </defs>
+<!-- BACKGROUND -->
+<rect width="860" height="310" rx="14" fill="#020c0c"/>
+<rect width="860" height="310" fill="url(#grid)"/>
+<rect width="860" height="310" filter="url(#noise)" opacity="0.4"/>
 
-  <!-- BG -->
-  <rect width="860" height="310" rx="14" fill="#020c0c"/>
-  <rect width="860" height="310" rx="14" fill="url(#grid)"/>
-  <rect width="860" height="310" rx="14" fill="url(#leftglow)"/>
+<!-- BORDER -->
+<rect x="3" y="3" width="854" height="304" rx="12"
+stroke="#00ffff" fill="none" opacity="0.5"/>
 
-  <!-- Border -->
-  <rect x="2"  y="2"  width="856" height="306" rx="12" fill="none" stroke="#00ffff" stroke-width="1.4" opacity="0.55"/>
-  <rect x="6"  y="6"  width="848" height="298" rx="9"  fill="none" stroke="#00ffff" stroke-width="0.35" opacity="0.16"/>
+<!-- SIDEBARS -->
+<rect x="0" y="60" width="3" height="180" fill="#00ffff" class="sidebar"/>
+<rect x="857" y="60" width="3" height="180" fill="#00ffff" class="sidebar"/>
 
-  <!-- Corner brackets -->
-  <g class="corner" fill="#00ffff" filter="url(#glow)">
-    <rect x="10" y="10" width="20" height="2.5"/>
-    <rect x="10" y="10" width="2.5" height="20"/>
-    <rect x="830" y="10" width="20" height="2.5"/>
-    <rect x="847.5" y="10" width="2.5" height="20"/>
-    <rect x="10"  y="297.5" width="20" height="2.5"/>
-    <rect x="10"  y="280"   width="2.5" height="20"/>
-    <rect x="830" y="297.5" width="20" height="2.5"/>
-    <rect x="847.5" y="280" width="2.5" height="20"/>
-  </g>
+<!-- TITLE -->
+<text x="430" y="32" text-anchor="middle"
+fill="#00ffff"
+font-size="13"
+letter-spacing="6"
+class="flicker">
+SYSTEM IDENTITY CARD // v4.0
+</text>
 
-  <!-- Side bars -->
-  <rect x="0"   y="65" width="3" height="182" rx="1.5" fill="#00ffff" class="sidebar"/>
-  <rect x="857" y="65" width="3" height="182" rx="1.5" fill="#00ffff" class="sidebar"/>
+<!-- ENERGY DIVIDER -->
+<line x1="28" y1="60" x2="832" y2="60"
+stroke="url(#energy)" stroke-width="1.2">
+<animate attributeName="stroke-dasharray"
+values="0,840;200,640;0,840"
+dur="2.5s"
+repeatCount="indefinite"/>
+</line>
 
-  <g clip-path="url(#mc)">
+<!-- DATA -->
+<g class="row">
+<text x="46" y="100" fill="#00ffff" opacity="0.6">NAME</text>
+<text x="240" y="100" class="nameglow" fill="#e0ffff">Sathwik Shetty</text>
+</g>
 
-    <!-- TOP PIXEL TICKER -->
-    <g class="px">
-      <rect x="30"  y="19" width="30" height="11" rx="2" fill="#00ffff" opacity="0.28"/>
-      <rect x="68"  y="19" width="30" height="11" rx="2" fill="#00ffff" opacity="0.28"/>
-      <rect x="106" y="19" width="30" height="11" rx="2" fill="#00ffff" opacity="0.28"/>
-      <rect x="144" y="19" width="30" height="11" rx="2" fill="#00ffff" opacity="0.28"/>
-      <rect x="182" y="19" width="30" height="11" rx="2" fill="#00ffff" opacity="0.28"/>
-      <rect x="220" y="19" width="30" height="11" rx="2" fill="#00ffff" opacity="0.28"/>
-      <rect x="258" y="19" width="30" height="11" rx="2" fill="#00ffff" opacity="0.28"/>
-      <rect x="296" y="19" width="30" height="11" rx="2" fill="#00ffff" opacity="0.28"/>
-      <rect x="496" y="19" width="30" height="11" rx="2" fill="#00ffff" opacity="0.28"/>
-      <rect x="534" y="19" width="30" height="11" rx="2" fill="#00ffff" opacity="0.28"/>
-      <rect x="572" y="19" width="30" height="11" rx="2" fill="#00ffff" opacity="0.28"/>
-      <rect x="610" y="19" width="30" height="11" rx="2" fill="#00ffff" opacity="0.28"/>
-      <rect x="648" y="19" width="30" height="11" rx="2" fill="#00ffff" opacity="0.28"/>
-      <rect x="686" y="19" width="30" height="11" rx="2" fill="#00ffff" opacity="0.28"/>
-      <rect x="724" y="19" width="30" height="11" rx="2" fill="#00ffff" opacity="0.28"/>
-      <rect x="762" y="19" width="30" height="11" rx="2" fill="#00ffff" opacity="0.28"/>
-      <rect x="800" y="19" width="30" height="11" rx="2" fill="#00ffff" opacity="0.28"/>
-    </g>
+<g class="row">
+<text x="46" y="125" fill="#00ffff" opacity="0.6">ROLE</text>
+<text x="240" y="125" fill="#e0ffff">CS Engineer · AI Builder</text>
+</g>
 
-    <!-- TITLE -->
-    <g class="glitch">
-      <text x="430" y="31" text-anchor="middle" fill="url(#titlegrad)" font-size="11.5" letter-spacing="5" opacity="0.95" font-weight="bold">SYSTEM IDENTITY CARD  //  v3.1.0  //  CLASSIFIED</text>
-    </g>
+<g class="row">
+<text x="46" y="150" fill="#00ffff" opacity="0.6">STATUS</text>
 
-    <!-- TICKER ROW 2 -->
-    <g class="px2">
-      <rect x="30"  y="39" width="30" height="11" rx="2" fill="#00ffff" opacity="0.18"/>
-      <rect x="68"  y="39" width="30" height="11" rx="2" fill="#00ffff" opacity="0.18"/>
-      <rect x="106" y="39" width="30" height="11" rx="2" fill="#00ffff" opacity="0.18"/>
-      <rect x="144" y="39" width="30" height="11" rx="2" fill="#00ffff" opacity="0.18"/>
-      <rect x="182" y="39" width="30" height="11" rx="2" fill="#00ffff" opacity="0.18"/>
-      <rect x="220" y="39" width="30" height="11" rx="2" fill="#00ffff" opacity="0.18"/>
-      <rect x="258" y="39" width="30" height="11" rx="2" fill="#00ffff" opacity="0.18"/>
-      <rect x="296" y="39" width="30" height="11" rx="2" fill="#00ffff" opacity="0.18"/>
-      <rect x="496" y="39" width="30" height="11" rx="2" fill="#00ffff" opacity="0.18"/>
-      <rect x="534" y="39" width="30" height="11" rx="2" fill="#00ffff" opacity="0.18"/>
-      <rect x="572" y="39" width="30" height="11" rx="2" fill="#00ffff" opacity="0.18"/>
-      <rect x="610" y="39" width="30" height="11" rx="2" fill="#00ffff" opacity="0.18"/>
-      <rect x="648" y="39" width="30" height="11" rx="2" fill="#00ffff" opacity="0.18"/>
-      <rect x="686" y="39" width="30" height="11" rx="2" fill="#00ffff" opacity="0.18"/>
-      <rect x="724" y="39" width="30" height="11" rx="2" fill="#00ffff" opacity="0.18"/>
-      <rect x="762" y="39" width="30" height="11" rx="2" fill="#00ffff" opacity="0.18"/>
-      <rect x="800" y="39" width="30" height="11" rx="2" fill="#00ffff" opacity="0.18"/>
-    </g>
+<rect x="240" y="138" width="140" height="14" rx="3"
+fill="url(#energy)">
+<animate attributeName="x"
+values="240;255;240"
+dur="2s"
+repeatCount="indefinite"/>
+</rect>
 
-    <!-- TOP DIVIDER -->
-    <line x1="28" y1="59" x2="832" y2="59" stroke="#00ffff" stroke-width="0.7" opacity="0.4" class="drawline"/>
+<text x="390" y="150" fill="#00ff88">◉ ONLINE</text>
+</g>
 
-    <!-- SECTION LABEL -->
-    <text x="46" y="78" fill="#00ffff" opacity="0.28" font-size="10" letter-spacing="3">[ IDENTITY RECORD ]</text>
+<g class="row">
+<text x="46" y="175" fill="#00ffff" opacity="0.6">STACK</text>
+<text x="240" y="175" fill="#e0ffff">AI · RAG · OpenCV · ROS</text>
+</g>
 
-    <!-- VERTICAL CENTER DIVIDER -->
-    <line x1="430" y1="64" x2="430" y2="228" stroke="#00ffff" stroke-width="0.4" opacity="0.18" stroke-dasharray="4,6"/>
+<!-- TAGS -->
+<g class="tag">
+<rect x="46" y="210" width="80" height="20" rx="3"
+fill="#00ffff" opacity="0.1"
+stroke="#00ffff"/>
+<text x="86" y="224" text-anchor="middle"
+fill="#00ffff">LangChain</text>
+</g>
 
-    <!-- ══ DATA ROWS (2 columns of 4) ══ -->
-    <!-- Left:  label@46  arrow@186  value@240 -->
-    <!-- Right: label@450 arrow@590  value@644 -->
-    <g>
-      <!-- Row 1: NAME | INSTITUTION -->
-      <g class="row">
-        <text x="46"  y="100" fill="#00ffff" opacity="0.5"  font-size="11.5" letter-spacing="1">NAME</text>
-        <text x="186" y="100" fill="#00ffff" opacity="0.32" font-size="11.5">──▶</text>
-        <text x="240" y="100" fill="#e0ffff" font-size="14"  font-weight="bold" letter-spacing="1.2" class="nameglow">Sathwik Shetty</text>
+<g class="tag">
+<rect x="140" y="210" width="70" height="20" rx="3"
+fill="#ff6e96" opacity="0.1"
+stroke="#ff6e96"/>
+<text x="175" y="224" text-anchor="middle"
+fill="#ff6e96">ROS</text>
+</g>
 
-        <text x="450" y="100" fill="#00ffff" opacity="0.5"  font-size="11.5" letter-spacing="1">INSTITUTION</text>
-        <text x="590" y="100" fill="#00ffff" opacity="0.32" font-size="11.5">──▶</text>
-        <text x="644" y="100" fill="#e0ffff" font-size="11.5">Sahyadri College, Mangaluru</text>
-      </g>
+<!-- SYSTEM DOT -->
+<circle cx="820" cy="20" r="2" fill="#00ff88">
+<animate attributeName="opacity"
+values="1;0.2;1"
+dur="1s"
+repeatCount="indefinite"/>
+</circle>
 
-      <!-- Row 2: ROLE | LOCATION -->
-      <g class="row">
-        <text x="46"  y="124" fill="#00ffff" opacity="0.5"  font-size="11.5" letter-spacing="1">ROLE</text>
-        <text x="186" y="124" fill="#00ffff" opacity="0.32" font-size="11.5">──▶</text>
-        <text x="240" y="124" fill="#e0ffff" font-size="11.5">CS Engineer  ·  Product Dev  ·  Mentor</text>
+<!-- FOOTER -->
+<text x="430" y="270" text-anchor="middle"
+fill="#00ffff"
+opacity="0.3"
+font-size="10"
+class="flicker">
+SYSTEM ACTIVE · UPTIME ∞
+</text>
 
-        <text x="450" y="124" fill="#00ffff" opacity="0.5"  font-size="11.5" letter-spacing="1">LOCATION</text>
-        <text x="590" y="124" fill="#00ffff" opacity="0.32" font-size="11.5">──▶</text>
-        <text x="644" y="124" fill="#e0ffff" font-size="11.5">Karnataka, India 🇮🇳</text>
-      </g>
+<text x="740" y="270" class="blink" fill="#00ffff">█</text>
 
-      <!-- Row 3: STATUS | FUNDING -->
-      <g class="row">
-        <text x="46"  y="148" fill="#00ffff" opacity="0.5"  font-size="11.5" letter-spacing="1">STATUS</text>
-        <text x="186" y="148" fill="#00ffff" opacity="0.32" font-size="11.5">──▶</text>
-        <rect x="240" y="136" width="148" height="16" rx="3" fill="#00ffff" class="pulse-bar" opacity="0.8"/>
-        <text x="396" y="148" fill="#00ff88" font-size="11.5" font-weight="bold">  ◉ ONLINE &amp; BUILDING</text>
+<!-- SCANLINES -->
+<rect class="scanline" width="860" height="3"
+fill="#00ffff" opacity="0.08"/>
 
-        <text x="450" y="148" fill="#00ffff" opacity="0.5"  font-size="11.5" letter-spacing="1">FUNDING</text>
-        <text x="590" y="148" fill="#00ffff" opacity="0.32" font-size="11.5">──▶</text>
-        <text x="644" y="148" fill="#ff6e96" font-size="11.5" font-weight="bold">₹16.5L MSME · AeroWave 🛵</text>
-      </g>
-
-      <!-- Row 4: CORE STACK | MISSION -->
-      <g class="row">
-        <text x="46"  y="172" fill="#00ffff" opacity="0.5"  font-size="11.5" letter-spacing="1">CORE STACK</text>
-        <text x="186" y="172" fill="#00ffff" opacity="0.32" font-size="11.5">──▶</text>
-        <text x="240" y="172" fill="#e0ffff" font-size="11.5">AI · RAG · OpenCV · IoT · ROS · Full-Stack</text>
-
-        <text x="450" y="172" fill="#00ffff" opacity="0.5"  font-size="11.5" letter-spacing="1">MISSION</text>
-        <text x="590" y="172" fill="#00ffff" opacity="0.32" font-size="11.5">──▶</text>
-        <text x="644" y="172" fill="#e0ffff" font-size="11.5">AI × HW × SW for impact</text>
-      </g>
-    </g>
-
-    <!-- MID DIVIDER -->
-    <line x1="28" y1="190" x2="832" y2="190" stroke="#00ffff" stroke-width="0.5" opacity="0.25"/>
-
-    <!-- SKILL TAGS -->
-    <g>
-      <g class="tag">
-        <rect x="46"  y="200" width="70" height="19" rx="3" fill="#00ffff" opacity="0.1" stroke="#00ffff" stroke-width="0.6" stroke-opacity="0.45"/>
-        <text x="81"  y="213" text-anchor="middle" fill="#00ffff" font-size="10.5">LangChain</text>
-      </g>
-      <g class="tag">
-        <rect x="124" y="200" width="60" height="19" rx="3" fill="#00ffff" opacity="0.1" stroke="#00ffff" stroke-width="0.6" stroke-opacity="0.45"/>
-        <text x="154" y="213" text-anchor="middle" fill="#00ffff" font-size="10.5">OpenCV</text>
-      </g>
-      <g class="tag">
-        <rect x="192" y="200" width="46" height="19" rx="3" fill="#ff6e96" opacity="0.1" stroke="#ff6e96" stroke-width="0.6" stroke-opacity="0.45"/>
-        <text x="215" y="213" text-anchor="middle" fill="#ff6e96" font-size="10.5">ROS</text>
-      </g>
-      <g class="tag">
-        <rect x="246" y="200" width="74" height="19" rx="3" fill="#00ffff" opacity="0.1" stroke="#00ffff" stroke-width="0.6" stroke-opacity="0.45"/>
-        <text x="283" y="213" text-anchor="middle" fill="#00ffff" font-size="10.5">Robotics</text>
-      </g>
-      <g class="tag">
-        <rect x="328" y="200" width="100" height="19" rx="3" fill="#ff6e96" opacity="0.1" stroke="#ff6e96" stroke-width="0.6" stroke-opacity="0.45"/>
-        <text x="378" y="213" text-anchor="middle" fill="#ff6e96" font-size="10.5">Rocket Avionics</text>
-      </g>
-      <g class="tag">
-        <rect x="436" y="200" width="80" height="19" rx="3" fill="#00ffff" opacity="0.1" stroke="#00ffff" stroke-width="0.6" stroke-opacity="0.45"/>
-        <text x="476" y="213" text-anchor="middle" fill="#00ffff" font-size="10.5">Full-Stack</text>
-      </g>
-    </g>
-
-    <!-- BOTTOM DIVIDER -->
-    <line x1="28" y1="228" x2="832" y2="228" stroke="#00ffff" stroke-width="0.5" opacity="0.22"/>
-
-    <!-- BOTTOM TICKER -->
-    <g class="px2">
-      <rect x="30"  y="239" width="30" height="11" rx="2" fill="#00ffff" opacity="0.16"/>
-      <rect x="68"  y="239" width="30" height="11" rx="2" fill="#00ffff" opacity="0.16"/>
-      <rect x="106" y="239" width="30" height="11" rx="2" fill="#00ffff" opacity="0.16"/>
-      <rect x="144" y="239" width="30" height="11" rx="2" fill="#00ffff" opacity="0.16"/>
-      <rect x="182" y="239" width="30" height="11" rx="2" fill="#00ffff" opacity="0.16"/>
-      <rect x="560" y="239" width="30" height="11" rx="2" fill="#00ffff" opacity="0.16"/>
-      <rect x="598" y="239" width="30" height="11" rx="2" fill="#00ffff" opacity="0.16"/>
-      <rect x="636" y="239" width="30" height="11" rx="2" fill="#00ffff" opacity="0.16"/>
-      <rect x="674" y="239" width="30" height="11" rx="2" fill="#00ffff" opacity="0.16"/>
-      <rect x="712" y="239" width="30" height="11" rx="2" fill="#00ffff" opacity="0.16"/>
-      <rect x="750" y="239" width="30" height="11" rx="2" fill="#00ffff" opacity="0.16"/>
-      <rect x="788" y="239" width="30" height="11" rx="2" fill="#00ffff" opacity="0.16"/>
-      <rect x="826" y="239" width="16" height="11" rx="2" fill="#00ffff" opacity="0.16"/>
-    </g>
-
-    <!-- FOOTER -->
-    <text class="ftxt" x="430" y="261" text-anchor="middle" fill="#00ffff" opacity="0.32" font-size="10.5" letter-spacing="2">[ SYS ]  ALL SYSTEMS NOMINAL  ·  UPTIME: ∞  ·  NEXT BUILD: LOADING</text>
-    <text class="blink" x="748" y="261" fill="#00ffff" opacity="0.6" font-size="11">█</text>
-
-    <!-- SCANLINE -->
-    <rect class="scanline" x="4" y="0" width="852" height="8" fill="#00ffff" opacity="0.04"/>
-
-  </g>
 </svg>
