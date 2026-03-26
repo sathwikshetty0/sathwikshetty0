@@ -130,7 +130,7 @@ repeatCount="indefinite"/>
 
 <g class="row">
 <text x="46" y="125" fill="#00ffff" opacity="0.6">ROLE</text>
-<text x="240" y="125" fill="#e0ffff">CS Engineer · AI Builder</text>
+<text x="240" y="125" fill="#e0ffff">Product Developer · AI Builder · IoT </text>
 </g>
 
 <g class="row">
@@ -149,7 +149,7 @@ repeatCount="indefinite"/>
 
 <g class="row">
 <text x="46" y="175" fill="#00ffff" opacity="0.6">STACK</text>
-<text x="240" y="175" fill="#e0ffff">AI · RAG · OpenCV · ROS</text>
+<text x="240" y="175" fill="#e0ffff">AI · RAG · OpenCV · ROS · IoT · Web Dev</text>
 </g>
 
 <!-- TAGS -->
@@ -167,6 +167,22 @@ fill="#ff6e96" opacity="0.1"
 stroke="#ff6e96"/>
 <text x="175" y="224" text-anchor="middle"
 fill="#ff6e96">ROS</text>
+</g>
+
+<g class="tag">
+<rect x="140" y="210" width="70" height="20" rx="3"
+fill="#ff6e96" opacity="0.1"
+stroke="#ff6e96"/>
+<text x="175" y="224" text-anchor="middle"
+fill="#ff6e96">IOT</text>
+</g>
+
+<g class="tag">
+<rect x="140" y="210" width="70" height="20" rx="3"
+fill="#ff6e96" opacity="0.1"
+stroke="#ff6e96"/>
+<text x="175" y="224" text-anchor="middle"
+fill="#ff6e96">Ollama</text>
 </g>
 
 <!-- SYSTEM DOT -->
