@@ -285,27 +285,34 @@ I'm an Engineer living at the intersection of **AI, robotics, hardware, and full
 ---
 
 <!-- ═══════════════════════ GITHUB STATS ═══════════════════════ -->
-
 ## 📊 GITHUB STATS
 
 <div align="center">
+
+<!-- 🔹 Main Stats + Top Languages -->
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sathwikshetty0&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ff6e96&text_color=c9d1d9&icon_color=00ffff&border_radius=12" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathwikshetty0&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6e96&text_color=c9d1d9&border_radius=12" />
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=sathwikshetty0&theme=radical&hide_border=true&background=0d1117&ring=ff6e96&fire=ff6e96&currStreakLabel=00ffff&sideLabels=ff6e96&dates=c9d1d9&stroke=0d1117&border_radius=12" />
+<!-- 🔥 Streak Stats (Perfectly Matched Theme) -->
+
+<img width="70%" src="https://streak-stats.demolab.com?user=sathwikshetty0&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ffff&fire=ff6b6b&currStreakLabel=00ffff&sideLabels=00ffff&dates=c9d1d9&stroke=0d1117&border_radius=12" />
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sathwikshetty0&theme=radical" width="98%" />
+<!-- 📈 Profile Summary -->
 
-<br/>
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sathwikshetty0&theme=radical" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sathwikshetty0&theme=radical" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sathwikshetty0&theme=radical" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sathwikshetty0&theme=radical&utcOffset=5.5" width="32%" />
+<br/><br/>
+
+<!-- 📊 Extra Stats Cards -->
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sathwikshetty0&theme=radical" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sathwikshetty0&theme=radical" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sathwikshetty0&theme=radical&utcOffset=5.5" />
 
 </div>
 
