@@ -303,16 +303,18 @@ I'm an Engineer living at the intersection of **AI, robotics, hardware, and full
 <br/><br/>
 
 <!-- 📈 Profile Summary -->
+<p align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sathwikshetty0&theme=radical" />
+</p>
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sathwikshetty0&theme=radical" />
-
-<br/><br/>
+<br/>
 
 <!-- 📊 Extra Stats Cards -->
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sathwikshetty0&theme=radical" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sathwikshetty0&theme=radical" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sathwikshetty0&theme=radical&utcOffset=5.5" />
+<p align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sathwikshetty0&theme=radical" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sathwikshetty0&theme=radical" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sathwikshetty0&theme=radical&utcOffset=5.5" />
+</p>
 
 </div>
 
